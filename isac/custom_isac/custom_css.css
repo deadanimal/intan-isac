@@ -1,0 +1,149 @@
+/* CSS Document */
+<style type="text/css">
+<!--
+#userNotification2{
+	border: 1px solid #cad7e8;
+	font-size: 0.9em;
+	padding: 3px 0px 3px 0px;
+	width:99%;
+	margin-bottom:10px;
+	font-weight:bold;
+	background-color:#fafbf6;
+}
+
+#userNotification3{
+	border: 1px solid #cad7e8;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	font-size: 0.9em;
+	padding: 3px 0px 3px 0px;
+	width:99.5%;
+	margin-bottom:10px;
+	margin-left:5px;
+	font-weight:bold;
+	background-color:#fafbf6;
+}
+
+
+
+.inputInput, .inputInput, .w8em{
+	font-family:"Trebuchet MS", Verdana, Arial;
+	padding: 1px;
+	border: 1px solid #CCCCCC;
+	font-size: 12px;
+	margin-right:3px;
+}
+
+#tableContent{
+	border:1px solid #B3C5D7;
+	margin-left: 5px;
+	width:99%;						/* addded cikkim 20080707. kalo problem buang jer. */
+}
+
+.style14 {font-size: 12px}
+
+.inputButton
+{
+	font-family:"Trebuchet MS"; 
+	font-size:12px; 
+	color:#333333; 
+	padding: 0px 2px 0px 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.style15
+{
+text-align: center;
+padding-top: 2px;
+padding-right: 0px;
+padding-bottom: 2px;
+padding-left: 0px;
+/*background-color: #e8a20c;*/
+/*background-color: #347ff4;*/
+background-repeat: repeat-x;
+background-image: url(../img/content/header_bar1.jpg);
+}
+.style16 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+.style39 {font-size: small}
+.jawapan{
+margin-left:50px;
+
+}
+.style44 {font-family: Arial, Helvetica, sans-serif}
+.style45 {font-weight: bold; font-size: 14px;}
+.style46 {vertical-align:top; color: #000000;}
+.style47 {color: #000000; vertical-align:top; font-size: small;}
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF9900;
+}
+a:active {
+	text-decoration: none;
+	color: #FF9900;
+}
+
+
+.style49 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.tb_report1{
+border-top:solid 1px #666666;
+border-left:solid 1px #666666;
+
+}
+
+#tableContent2{
+	border-top:1px solid #B3C5D7;
+	border-bottom:1px solid #B3C5D7;
+	border-left:1px solid #B3C5D7;
+	margin-left: 5px;
+	width:99%;						/* addded cikkim 20080707. kalo problem buang jer. */
+}
+
+.tb_report{
+
+border-bottom:1px solid #B3C5D7;
+border-right:1px solid #B3C5D7;
+
+}
+
+.tb_report_h{
+
+border-bottom:1px solid #B3C5D7;
+border-right:1px solid #B3C5D7;
+
+}
+.style31 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.style33 {font-family: Arial, Helvetica, sans-serif; font-size: 16px; }
+.style34 {
+	font-family: Arial;
+	color: #FF0000;
+	font-weight: bold;
+	font-size: 12px;
+}
+-->
+</style>
+

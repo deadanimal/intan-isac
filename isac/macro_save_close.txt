@@ -1,0 +1,49 @@
+Sub save_quit()
+'
+' save_quit Macro
+'
+'
+    ' ActiveDocument.SaveAs FileName:="Word2007.html", FileFormat:=wdFormatHTML, _
+
+    ActiveDocument.SaveAs FileName:="Word2007.html", FileFormat:=wdFormatHTML, _
+        LockComments:=False, Password:="", AddToRecentFiles:=True, WritePassword _
+        :="", ReadOnlyRecommended:=False, EmbedTrueTypeFonts:=False, _
+        SaveNativePictureFormat:=False, SaveFormsData:=False, SaveAsAOCELetter:= _
+        False
+    ActiveWindow.View.Type = wdWebView
+    ActiveWindow.Close
+    Application.Quit
+
+End Sub
+
+Sub Macro1()
+'
+' Macro1 Macro
+'
+'
+    Selection.MoveUp Unit:=wdLine, Count:=19
+    Selection.MoveDown Unit:=wdLine, Count:=1
+    Selection.MoveRight Unit:=wdCharacter, Count:=11
+    Selection.MoveRight Unit:=wdCharacter, Count:=28, Extend:=wdExtend
+    Selection.MoveLeft Unit:=wdCharacter, Count:=1, Extend:=wdExtend
+    Selection.MoveRight Unit:=wdCharacter, Count:=1
+    Selection.MoveLeft Unit:=wdCharacter, Count:=9, Extend:=wdExtend
+    Selection.Font.Bold = wdToggle
+End Sub
+Sub isac_save_close()
+'
+' isac_save_close Macro
+'
+    ChangeFileOpenDirectory "\\192.168.2.7\xampp\htdocs\isac\kemahiran\"
+    ActiveDocument.SaveAs FileName:= _
+        "\\192.168.2.7\xampp\htdocs\isac\kemahiran\Word2007.mht", FileFormat:= _
+        wdFormatWebArchive, LockComments:=False, Password:="", AddToRecentFiles:= _
+        True, WritePassword:="", ReadOnlyRecommended:=False, EmbedTrueTypeFonts:= _
+        False, SaveNativePictureFormat:=False, SaveFormsData:=False, _
+        SaveAsAOCELetter:=False
+    ActiveWindow.View.Type = wdWebView
+    ActiveWindow.Close
+    Application.Quit
+'
+
+End Sub

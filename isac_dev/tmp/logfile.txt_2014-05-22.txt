@@ -1,0 +1,50 @@
+03:26:41 (pull_client) ================= Start Process PULL to Intan BK ==================
+03:26:41 (pull_client) Intan BK - Table pro_sijil : '1' inserted.
+03:26:41 (pull_client) Intan BK - Table pro_sijil : '2' inserted.
+03:26:41 (pull_client) Intan BK - Table pro_sijil : '3' inserted.
+03:26:41 (pull_client) Intan BK - Table pro_sijil : '4' inserted.
+03:26:41 (pull_client) Intan BK - Table pro_sijil : '5' inserted.
+03:26:42 (pull_client) Intan BK - Table pro_sijil : '6' inserted.
+03:26:42 (pull_client) Intan BK - Table prs_penilaian : '698' inserted.
+03:26:42 (pull_client) Intan BK - Table prs_penilaian : '699' inserted.
+03:26:42 (pull_client) Intan BK - Table prs_penilaian : '700' inserted.
+03:26:42 (pull_client) Intan BK - Table prs_penilaian : '701' inserted.
+03:26:43 (pull_client) Intan BK - Table prs_penilaian : '702' inserted.
+03:26:43 (pull_client) Intan BK - Table prs_penilaian : '703' inserted.
+03:26:43 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3926' inserted.
+03:26:43 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3927' inserted.
+03:26:43 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3928' inserted.
+03:26:43 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3929' inserted.
+03:26:44 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3930' inserted.
+03:26:44 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3931' inserted.
+03:26:44 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3932' inserted.
+03:26:44 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3933' inserted.
+03:26:44 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3934' inserted.
+03:26:44 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3935' inserted.
+03:26:45 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3936' inserted.
+03:26:45 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3937' inserted.
+03:26:45 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3938' inserted.
+03:26:45 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3939' inserted.
+03:26:45 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3940' inserted.
+03:26:45 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3941' inserted.
+03:26:46 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3942' inserted.
+03:26:46 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3943' inserted.
+03:26:46 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3944' inserted.
+03:26:46 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3945' inserted.
+03:26:46 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3946' inserted.
+03:26:46 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3947' inserted.
+03:26:47 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3948' inserted.
+03:26:47 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3949' inserted.
+03:26:47 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3950' inserted.
+03:26:47 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3951' inserted.
+03:26:47 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3952' inserted.
+03:26:47 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3953' inserted.
+03:26:48 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3954' inserted.
+03:26:48 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3955' inserted.
+03:26:48 (pull_client) IAC - Table prs_permohonan : '17151' updated.
+03:26:48 (pull_client) IAC - Table prs_permohonan : '17214' updated.
+03:26:48 (pull_client) IAC - Table prs_permohonan : '17215' updated.
+03:26:48 (pull_client) IAC - Table prs_permohonan : '17216' updated.
+03:26:49 (pull_client) IAC - Table prs_permohonan : '17175' updated.
+03:26:49 (pull_client) IAC - Table prs_permohonan : '16780' updated.
+03:26:49 (pull_client) ================= End Process PULL to Intan BK ==================

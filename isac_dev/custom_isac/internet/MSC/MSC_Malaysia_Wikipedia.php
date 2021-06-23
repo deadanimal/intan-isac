@@ -1,0 +1,972 @@
+﻿<?php
+//include ('db.php');
+
+$usr=$_GET['id'];
+$app = $_GET['app'];
+//echo $usr;
+?>
+<div style="margin-left:10px;">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0041)http://en.wikipedia.org/wiki/MSC_Malaysia -->
+<HTML lang=en dir=ltr xml:lang="en" 
+xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>MSC Malaysia - Wikipedia, the free encyclopedia</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<META http-equiv=Content-Style-Type content=text/css>
+<META content="MSHTML 6.00.6000.16890" name=GENERATOR><LINK 
+title="Edit this page" href="/w/index.php?title=MSC_Malaysia&amp;action=edit" 
+type=application/x-wiki rel=alternate><LINK title="Edit this page" 
+href="/w/index.php?title=MSC_Malaysia&amp;action=edit" rel=edit><LINK 
+href="http://en.wikipedia.org/apple-touch-icon.png" rel=apple-touch-icon><LINK 
+href="/favicon.ico" rel="shortcut icon"><LINK title="Wikipedia (en)" 
+href="/w/opensearch_desc.php" type=application/opensearchdescription+xml 
+rel=search><LINK href="http://creativecommons.org/licenses/by-sa/3.0/" 
+rel=copyright><LINK title="Wikipedia RSS Feed" 
+href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" 
+type=application/rss+xml rel=alternate><LINK title="Wikipedia Atom Feed" 
+href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" 
+type=application/atom+xml rel=alternate><LINK media=screen 
+href="MSC_Malaysia_Wikipedia_files/shared.css" type=text/css 
+rel=stylesheet><LINK media=print 
+href="MSC_Malaysia_Wikipedia_files/commonPrint.css" type=text/css 
+rel=stylesheet><LINK media=screen href="MSC_Malaysia_Wikipedia_files/main.css" 
+type=text/css rel=stylesheet><LINK media=handheld 
+href="MSC_Malaysia_Wikipedia_files/main(1).css" type=text/css rel=stylesheet><!--[if lt IE 5.5000]><link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/monobook/IE50Fixes.css?257z23" type="text/css" media="screen" /><![endif]--><!--[if IE 5.5000]><link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/monobook/IE55Fixes.css?257z23" type="text/css" media="screen" /><![endif]--><!--[if IE 6]><link rel="stylesheet" href="http://bits.wikimedia.org/skins-1.5/monobook/IE60Fixes.css?257z23" type="text/css" media="screen" /><![endif]--><!--[if IE 7]><LINK 
+media=screen href="MSC_Malaysia_Wikipedia_files/IE70Fixes.css" type=text/css 
+rel=stylesheet><![endif]--><LINK media=all 
+href="MSC_Malaysia_Wikipedia_files/index.css" type=text/css rel=stylesheet><LINK 
+media=print href="MSC_Malaysia_Wikipedia_files/index(1).css" type=text/css 
+rel=stylesheet><LINK media=handheld 
+href="MSC_Malaysia_Wikipedia_files/index(2).css" type=text/css 
+rel=stylesheet><LINK media=all href="MSC_Malaysia_Wikipedia_files/index(3).css" 
+type=text/css rel=stylesheet><LINK media=all 
+href="MSC_Malaysia_Wikipedia_files/index(4).css" type=text/css rel=stylesheet>
+<SCRIPT type=text/javascript>
+var skin="monobook",
+stylepath="http://bits.wikimedia.org/skins-1.5",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/wiki/$1",
+wgScriptPath="/w",
+wgScriptExtension=".php",
+wgScript="/w/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://en.wikipedia.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="MSC_Malaysia",
+wgTitle="MSC Malaysia",
+wgAction="view",
+wgArticleId=25433713,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=332245919,
+wgVersion="1.16alpha-wmf",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "Wikipedia", "5": "Wikipedia talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk", "100": "Portal", "101": "Portal talk", "108": "Book", "109": "Book talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "wikipedia": 4, "wikipedia_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "portal": 100, "portal_talk": 101, "book": 108, "book_talk": 109, "wp": 4, "wt": 5, "image": 6, "image_talk": 7},
+wgMWSuggestTemplate="http://en.wikipedia.org/w/api.php?action=opensearch\x26search={searchTerms}\x26namespace={namespaces}\x26suggest",
+wgDBname="enwiki",
+wgSearchNamespaces=[0],
+wgMWSuggestMessages=["with suggestions", "no suggestions"],
+wgRestrictionEdit=[],
+wgRestrictionMove=[],
+wgTrackingToken="e1f64da354cc27edcb659106867657eb",
+wgClickTrackingIsThrottled=true,
+wgNotice="",
+wgNoticeLocal="";
+</SCRIPT>
+
+<SCRIPT src="MSC_Malaysia_Wikipedia_files/wikibits.js" 
+type=text/javascript></SCRIPT>
+
+<SCRIPT src="MSC_Malaysia_Wikipedia_files/ajax.js" 
+type=text/javascript></SCRIPT>
+
+<SCRIPT src="MSC_Malaysia_Wikipedia_files/mwsuggest.js" 
+type=text/javascript></SCRIPT>
+
+<SCRIPT src="MSC_Malaysia_Wikipedia_files/centralnotice.js" 
+type=text/javascript></SCRIPT>
+<!--[if lt IE 7]><script type="text/javascript" src="http://bits.wikimedia.org/skins-1.5/common/IEFixes.js?257z23"></script>
+	<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+<SCRIPT src="MSC_Malaysia_Wikipedia_files/index.php" 
+type=text/javascript></SCRIPT>
+</HEAD>
+<BODY class="mediawiki ltr ns-0 ns-subject page-MSC_Malaysia skin-monobook">
+<DIV id=globalWrapper>
+<DIV id=column-content>
+<DIV id=content><A id=top></A>
+<DIV id=siteNotice>
+<SCRIPT 
+type=text/javascript>if (wgNotice != '') document.writeln(wgNotice);</SCRIPT>
+</DIV>
+<H1 class=firstHeading id=firstHeading>MSC Malaysia</H1>
+<DIV id=bodyContent>
+<H3 id=siteSub>From Wikipedia, the free encyclopedia</H3>
+<DIV id=contentSub></DIV>
+<DIV id=jump-to-nav>Jump to: <A 
+href="http://en.wikipedia.org/wiki/MSC_Malaysia#column-one">navigation</A>, <A 
+href="http://en.wikipedia.org/wiki/MSC_Malaysia#searchInput">search</A></DIV><!-- start content -->
+<P>Situated in <A title=Malaysia 
+href="http://en.wikipedia.org/wiki/Malaysia">Malaysia</A>, the <B>Multimedia 
+Super Corridor</B> is a Government designated zone, designed to <A 
+title=Leapfrogging href="http://en.wikipedia.org/wiki/Leapfrogging">leapfrog</A> 
+<A title=Malaysia href="http://en.wikipedia.org/wiki/Malaysia">Malaysia</A> into 
+the <A title="Information Age" 
+href="http://en.wikipedia.org/wiki/Information_Age">information and knowledge 
+age</A>. It includes an area of approximately 15x50 km² which stretches from the 
+<A title="Petronas Towers" 
+href="http://en.wikipedia.org/wiki/Petronas_Towers">Petronas Twin Towers</A> to 
+the <A title="Kuala Lumpur International Airport" 
+href="http://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport">Kuala 
+Lumpur International Airport</A> and also includes the towns of <A 
+title=Putrajaya href="http://en.wikipedia.org/wiki/Putrajaya">Putrajaya</A> and 
+<A title=Cyberjaya 
+href="http://en.wikipedia.org/wiki/Cyberjaya">Cyberjaya</A>.</P>
+<P>Also known within Malaysia as the 'MSC', the Multimedia Super Corridor aims 
+to attract companies with attractive tax breaks and facilities such as high 
+speed internet and proximity to the local international airport, <A 
+title="Kuala Lumpur International Airport" 
+href="http://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport">Kuala 
+Lumpur International Airport</A>.</P>
+<P>The <A title="Multimedia Development Corporation" 
+href="http://en.wikipedia.org/wiki/Multimedia_Development_Corporation">Multimedia 
+Development Corporation</A> - MDeC (formerly MDC) was created to oversee 
+development of the MSC.</P>
+<H2><SPAN class=editsection>[<A title="Edit section: External links" 
+href="http://en.wikipedia.org/w/index.php?title=MSC_Malaysia&amp;action=edit&amp;section=1">edit</A>]</SPAN> 
+<SPAN class=mw-headline id=External_links>External links</SPAN></H2>
+<UL>
+  <LI><A class="external text" href="http://www.mscmalaysia.my/" 
+  rel=nofollow>MSC Malaysia website</A> 
+  <LI><A class="external text" href="http://cdp.mscmalaysia.my/" 
+  rel=nofollow>MSC Malaysia Capability Development Programmes (CDP)</A> </LI></UL>
+<TABLE class=navbox cellSpacing=0>
+  <TBODY>
+  <TR>
+    <TD 
+    style="PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px">
+      <TABLE class="nowraplinks collapsible autocollapse" 
+      style="BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 100%" 
+      cellSpacing=0>
+        <TBODY>
+        <TR>
+          <TH class=navbox-title colSpan=2>
+            <DIV style="FLOAT: left; WIDTH: 6em; TEXT-ALIGN: left">
+            <DIV class="noprint plainlinks navbar" 
+            style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: xx-small; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"><A 
+            title="Template:MSC Malaysia" 
+            href="http://en.wikipedia.org/wiki/Template:MSC_Malaysia"><SPAN 
+            title="View this template" 
+            style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">v</SPAN></A>&nbsp;<SPAN 
+            style="FONT-SIZE: 80%">•</SPAN>&nbsp;<A class=new 
+            title="Template talk:MSC Malaysia (page does not exist)" 
+            href="http://en.wikipedia.org/w/index.php?title=Template_talk:MSC_Malaysia&amp;action=edit&amp;redlink=1"><SPAN 
+            title="Discuss this template" 
+            style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">d</SPAN></A>&nbsp;<SPAN 
+            style="FONT-SIZE: 80%">•</SPAN>&nbsp;<A class="external text" 
+            href="http://en.wikipedia.org/w/index.php?title=Template:MSC_Malaysia&amp;action=edit" 
+            rel=nofollow><SPAN title="Edit this template" 
+            style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">e</SPAN></A></DIV></DIV><SPAN 
+            class="" style="FONT-SIZE: 110%"><STRONG class=selflink>MSC 
+            Malaysia</STRONG></SPAN></TH></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>MSC Centre</TD>
+          <TD class="navbox-list navbox-odd" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title=Cyberjaya 
+            href="http://en.wikipedia.org/wiki/Cyberjaya">Cyberjaya</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>MSC Area</TD>
+          <TD class="navbox-list navbox-even" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title="Klang Valley" 
+            href="http://en.wikipedia.org/wiki/Klang_Valley">Klang 
+            Valley</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>MSC Major Landmarks</TD>
+          <TD class="navbox-list navbox-odd" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em">
+            <DIV>
+            <P><A class=mw-redirect title="Petronas Twin Towers" 
+            href="http://en.wikipedia.org/wiki/Petronas_Twin_Towers">Petronas 
+            Twin Towers</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kuala Lumpur Tower" 
+            href="http://en.wikipedia.org/wiki/Kuala_Lumpur_Tower">Kuala Lumpur 
+            Tower</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kuala Lumpur Sentral railway station" 
+            href="http://en.wikipedia.org/wiki/Kuala_Lumpur_Sentral_railway_station">Kuala 
+            Lumpur Sentral</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Technology Park Malaysia" 
+            href="http://en.wikipedia.org/wiki/Technology_Park_Malaysia">Technology 
+            Park Malaysia</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=Putrajaya 
+            href="http://en.wikipedia.org/wiki/Putrajaya">Putrajaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Cyberjaya 
+            href="http://en.wikipedia.org/wiki/Cyberjaya">Cyberjaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kuala Lumpur International Airport" 
+            href="http://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport">Kuala 
+            Lumpur International Airport</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="SUNTECH Tower" 
+            href="http://en.wikipedia.org/wiki/SUNTECH_Tower">SUNTECH 
+            Tower</A></P></DIV></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>MSC Infrastructure</TD>
+          <TD class="navbox-list navbox-even" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title="Express Rail Link" 
+            href="http://en.wikipedia.org/wiki/Express_Rail_Link">Express Rail 
+            Link</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Maju Expressway" 
+            href="http://en.wikipedia.org/wiki/Maju_Expressway">Maju Expressway 
+            (MEX)</A> (<A class=mw-redirect title="KL-KLIA Dedicated Expressway" 
+            href="http://en.wikipedia.org/wiki/KL-KLIA_Dedicated_Expressway">KL-KLIA 
+            Dedicated Expressway</A>)<SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Total Airport Management Systems" 
+            href="http://en.wikipedia.org/wiki/Total_Airport_Management_Systems">Total 
+            Airport Management Systems</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>MSC Prime Applications</TD>
+          <TD class="navbox-list navbox-odd" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title=E-Government 
+            href="http://en.wikipedia.org/wiki/E-Government">e-Government</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=MyKad 
+            href="http://en.wikipedia.org/wiki/MyKad">MyKad</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>MSC Status companies</TD>
+          <TD class="navbox-list navbox-even" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title="Asia Media" 
+            href="http://en.wikipedia.org/wiki/Asia_Media">Asia Media</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Astro All Asia Networks" 
+            href="http://en.wikipedia.org/wiki/Astro_All_Asia_Networks">Astro 
+            All Asia Networks</A> (<A class=mw-redirect 
+            title="Astro (satellite TV)" 
+            href="http://en.wikipedia.org/wiki/Astro_(satellite_TV)">Astro</A>)</DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE class=navbox cellSpacing=0>
+  <TBODY>
+  <TR>
+    <TD 
+    style="PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px">
+      <TABLE class="nowraplinks collapsible autocollapse" 
+      style="BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 100%" 
+      cellSpacing=0>
+        <TBODY>
+        <TR>
+          <TH class=navbox-title colSpan=2>
+            <DIV style="FLOAT: left; WIDTH: 6em; TEXT-ALIGN: left">
+            <DIV class="noprint plainlinks navbar" 
+            style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: xx-small; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none"><A 
+            title=Template:Selangor 
+            href="http://en.wikipedia.org/wiki/Template:Selangor"><SPAN 
+            title="View this template" 
+            style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">v</SPAN></A>&nbsp;<SPAN 
+            style="FONT-SIZE: 80%">•</SPAN>&nbsp;<A 
+            title="Template talk:Selangor" 
+            href="http://en.wikipedia.org/wiki/Template_talk:Selangor"><SPAN 
+            title="Discuss this template" 
+            style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">d</SPAN></A>&nbsp;<SPAN 
+            style="FONT-SIZE: 80%">•</SPAN>&nbsp;<A class="external text" 
+            href="http://en.wikipedia.org/w/index.php?title=Template:Selangor&amp;action=edit" 
+            rel=nofollow><SPAN title="Edit this template" 
+            style="BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none">e</SPAN></A></DIV></DIV><SPAN 
+            class="" style="FONT-SIZE: 110%"><A class=image 
+            title="Flag of Selangor" 
+            href="http://en.wikipedia.org/wiki/File:Flag_of_Selangor.svg"><IMG 
+            height=15 alt="Flag of Selangor" 
+            src="MSC_Malaysia_Wikipedia_files/30px-Flag_of_Selangor.svg.png" 
+            width=30></A> <A title=Selangor 
+            href="http://en.wikipedia.org/wiki/Selangor">Selangor Darul 
+            Ehsan</A></SPAN></TH></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>Districts</TD>
+          <TD class="navbox-list navbox-odd" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title=Gombak 
+            href="http://en.wikipedia.org/wiki/Gombak">Gombak</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Hulu Langat" 
+            href="http://en.wikipedia.org/wiki/Hulu_Langat">Hulu Langat</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Hulu Selangor" 
+            href="http://en.wikipedia.org/wiki/Hulu_Selangor">Hulu 
+            Selangor</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=Klang href="http://en.wikipedia.org/wiki/Klang">Klang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Kuala Langat" 
+            href="http://en.wikipedia.org/wiki/Kuala_Langat">Kuala 
+            Langat</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kuala Selangor" 
+            href="http://en.wikipedia.org/wiki/Kuala_Selangor">Kuala 
+            Selangor</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sabak Bernam" 
+            href="http://en.wikipedia.org/wiki/Sabak_Bernam">Sabak 
+            Bernam</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=Sepang 
+            href="http://en.wikipedia.org/wiki/Sepang">Sepang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Petaling, Selangor" 
+            href="http://en.wikipedia.org/wiki/Petaling,_Selangor">Petaling</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>Cities</TD>
+          <TD class="navbox-list navbox-even" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title=Klang href="http://en.wikipedia.org/wiki/Klang">Klang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Petaling Jaya" 
+            href="http://en.wikipedia.org/wiki/Petaling_Jaya">Petaling 
+            Jaya</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Shah Alam" href="http://en.wikipedia.org/wiki/Shah_Alam">Shah 
+            Alam</A> (capital)</DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>Towns</TD>
+          <TD class="navbox-list navbox-odd" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title="Ampang, Selangor" 
+            href="http://en.wikipedia.org/wiki/Ampang,_Selangor">Ampang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Assam Jawa" 
+            href="http://en.wikipedia.org/wiki/Assam_Jawa">Assam Jawa</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Bagan Lalang" 
+            href="http://en.wikipedia.org/wiki/Bagan_Lalang">Bagan 
+            Lalang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bagan Nakhoda Omar" 
+            href="http://en.wikipedia.org/wiki/Bagan_Nakhoda_Omar">Bagan Nakhoda 
+            Omar</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=Balakong 
+            href="http://en.wikipedia.org/wiki/Balakong">Balakong</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Baru Bangi" 
+            href="http://en.wikipedia.org/wiki/Bandar_Baru_Bangi">Bandar Baru 
+            Bangi</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Baru Selayang" 
+            href="http://en.wikipedia.org/wiki/Bandar_Baru_Selayang">Bandar Baru 
+            Selayang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Sunway" 
+            href="http://en.wikipedia.org/wiki/Bandar_Sunway">Bandar 
+            Sunway</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bangi, Malaysia" 
+            href="http://en.wikipedia.org/wiki/Bangi,_Malaysia">Bangi</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Banting 
+            href="http://en.wikipedia.org/wiki/Banting">Banting</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Bestari Jaya" 
+            href="http://en.wikipedia.org/wiki/Bestari_Jaya">Bestari Jaya</A> 
+            (Batang Berjuntai)<SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Batang Kali" 
+            href="http://en.wikipedia.org/wiki/Batang_Kali">Batang Kali</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Batu Arang" 
+            href="http://en.wikipedia.org/wiki/Batu_Arang">Batu Arang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Batu Caves (town)" 
+            href="http://en.wikipedia.org/wiki/Batu_Caves_(town)">Batu 
+            Caves</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=Beranang 
+            href="http://en.wikipedia.org/wiki/Beranang">Beranang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Broga 
+            href="http://en.wikipedia.org/wiki/Broga">Broga</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Bukit Lanjan" 
+            href="http://en.wikipedia.org/wiki/Bukit_Lanjan">Bukit 
+            Lanjan</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bukit Raja" 
+            href="http://en.wikipedia.org/wiki/Bukit_Raja">Bukit Raja</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Bukit Rotan" 
+            href="http://en.wikipedia.org/wiki/Bukit_Rotan">Bukit Rotan</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Bukit Tagar" 
+            href="http://en.wikipedia.org/wiki/Bukit_Tagar">Bukit Tagar</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Cheras, Selangor" 
+            href="http://en.wikipedia.org/wiki/Cheras,_Selangor">Cheras</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Cyberjaya 
+            href="http://en.wikipedia.org/wiki/Cyberjaya">Cyberjaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Damansara, Selangor" 
+            href="http://en.wikipedia.org/wiki/Damansara,_Selangor">Damansara</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Dengkil 
+            href="http://en.wikipedia.org/wiki/Dengkil">Dengkil</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Ijok 
+            href="http://en.wikipedia.org/wiki/Ijok">Ijok</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Jenjarom 
+            href="http://en.wikipedia.org/wiki/Jenjarom">Jenjarom</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Jeram 
+            href="http://en.wikipedia.org/wiki/Jeram">Jeram</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Jugra 
+            href="http://en.wikipedia.org/wiki/Jugra">Jugra</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A class=mw-redirect 
+            title="Kajang (Malaysia)" 
+            href="http://en.wikipedia.org/wiki/Kajang_(Malaysia)">Kajang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Kapar 
+            href="http://en.wikipedia.org/wiki/Kapar">Kapar</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Kalumpang 
+            href="http://en.wikipedia.org/wiki/Kalumpang">Kalumpang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Kelana Jaya" 
+            href="http://en.wikipedia.org/wiki/Kelana_Jaya">Kelana Jaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A class=mw-redirect 
+            title="Kerling, Malaysia" 
+            href="http://en.wikipedia.org/wiki/Kerling,_Malaysia">Kerling</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Kuala Kubu Bharu" 
+            href="http://en.wikipedia.org/wiki/Kuala_Kubu_Bharu">Kuala Kubu 
+            Bharu</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kuala Selangor" 
+            href="http://en.wikipedia.org/wiki/Kuala_Selangor">Kuala 
+            Selangor</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kuala Sungai Buloh" 
+            href="http://en.wikipedia.org/wiki/Kuala_Sungai_Buloh">Kuala Sungai 
+            Buloh</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kuang (town)" 
+            href="http://en.wikipedia.org/wiki/Kuang_(town)">Kuang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Lagong 
+            href="http://en.wikipedia.org/wiki/Lagong">Lagong</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Morib 
+            href="http://en.wikipedia.org/wiki/Morib">Morib</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Meru, Malaysia" 
+            href="http://en.wikipedia.org/wiki/Meru,_Malaysia">Meru</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Padang Jawa" 
+            href="http://en.wikipedia.org/wiki/Padang_Jawa">Padang Jawa</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Pandamaran 
+            href="http://en.wikipedia.org/wiki/Pandamaran">Pandamaran</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Paya Jaras" 
+            href="http://en.wikipedia.org/wiki/Paya_Jaras">Paya Jaras</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Port Klang" 
+            href="http://en.wikipedia.org/wiki/Port_Klang">Port Klang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Puchong 
+            href="http://en.wikipedia.org/wiki/Puchong">Puchong</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Rasa, Malaysia" 
+            href="http://en.wikipedia.org/wiki/Rasa,_Malaysia">Rasa</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A class=mw-redirect 
+            title="Rawang, Malaysia" 
+            href="http://en.wikipedia.org/wiki/Rawang,_Malaysia">Rawang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Sabak 
+            href="http://en.wikipedia.org/wiki/Sabak">Sabak</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Salak Tinggi" 
+            href="http://en.wikipedia.org/wiki/Salak_Tinggi">Salak 
+            Tinggi</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=Sekinchan 
+            href="http://en.wikipedia.org/wiki/Sekinchan">Sekinchan</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Selayang 
+            href="http://en.wikipedia.org/wiki/Selayang">Selayang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Semenyih 
+            href="http://en.wikipedia.org/wiki/Semenyih">Semenyih</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Serendah 
+            href="http://en.wikipedia.org/wiki/Serendah">Serendah</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Seri Kembangan" 
+            href="http://en.wikipedia.org/wiki/Seri_Kembangan">Seri 
+            Kembangan</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=Sepang 
+            href="http://en.wikipedia.org/wiki/Sepang">Sepang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title=Sijangkang 
+            href="http://en.wikipedia.org/wiki/Sijangkang">Sijangkang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Subang, Selangor" 
+            href="http://en.wikipedia.org/wiki/Subang,_Selangor">Subang</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Subang Jaya" 
+            href="http://en.wikipedia.org/wiki/Subang_Jaya">Subang Jaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Ayer Tawar" 
+            href="http://en.wikipedia.org/wiki/Sungai_Ayer_Tawar">Sungai Ayer 
+            Tawar</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Buloh" 
+            href="http://en.wikipedia.org/wiki/Sungai_Buloh">Sungai 
+            Buloh</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Besar" 
+            href="http://en.wikipedia.org/wiki/Sungai_Besar">Sungai 
+            Besar</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Burong" 
+            href="http://en.wikipedia.org/wiki/Sungai_Burong">Sungai 
+            Burong</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Choh" 
+            href="http://en.wikipedia.org/wiki/Sungai_Choh">Sungai Choh</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Sungai Panjang" 
+            href="http://en.wikipedia.org/wiki/Sungai_Panjang">Sungai 
+            Panjang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Pelek" 
+            href="http://en.wikipedia.org/wiki/Sungai_Pelek">Sungai 
+            Pelek</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Pelong" 
+            href="http://en.wikipedia.org/wiki/Sungai_Pelong">Sungai 
+            Pelong</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Sungai Tengi" 
+            href="http://en.wikipedia.org/wiki/Sungai_Tengi">Sungai 
+            Tengi</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Tanjung Harapan" 
+            href="http://en.wikipedia.org/wiki/Tanjung_Harapan">Tanjung 
+            Harapan</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Tanjung Karang" 
+            href="http://en.wikipedia.org/wiki/Tanjung_Karang">Tanjung 
+            Karang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Tanjung Sepat" 
+            href="http://en.wikipedia.org/wiki/Tanjung_Sepat">Tanjung 
+            Sepat</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Teluk Datok" 
+            href="http://en.wikipedia.org/wiki/Teluk_Datok">Teluk Datok</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Teluk Panglima Garang" 
+            href="http://en.wikipedia.org/wiki/Teluk_Panglima_Garang">Teluk 
+            Panglima Garang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Ulu Klang" href="http://en.wikipedia.org/wiki/Ulu_Klang">Ulu 
+            Klang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Ulu Yam" href="http://en.wikipedia.org/wiki/Ulu_Yam">Ulu 
+            Yam</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>Villages</TD>
+          <TD class="navbox-list navbox-even" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title="Dusun Tua" 
+            href="http://en.wikipedia.org/wiki/Dusun_Tua">Dusun Tua</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="FELDA Soeharto" 
+            href="http://en.wikipedia.org/wiki/FELDA_Soeharto">FELDA 
+            Soeharto</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kampung Kuantan" 
+            href="http://en.wikipedia.org/wiki/Kampung_Kuantan">Kampung 
+            Kuantan</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kampung Sungai Haji Dorani" 
+            href="http://en.wikipedia.org/wiki/Kampung_Sungai_Haji_Dorani">Kampung 
+            Sungai Haji Dorani</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> 
+            <A title="Kampung Sungai Kayu Ara" 
+            href="http://en.wikipedia.org/wiki/Kampung_Sungai_Kayu_Ara">Kampung 
+            Sungai Kayu Ara</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Pulau Meranti" 
+            href="http://en.wikipedia.org/wiki/Pulau_Meranti">Pulau 
+            Meranti</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>Islands</TD>
+          <TD class="navbox-list navbox-odd" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title="Carey Island" 
+            href="http://en.wikipedia.org/wiki/Carey_Island">Pulau 
+            Carey</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Pulau Indah" 
+            href="http://en.wikipedia.org/wiki/Pulau_Indah">Pulau Indah</A> 
+            (Pulau Lumut)<SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Pulau Ketam" 
+            href="http://en.wikipedia.org/wiki/Pulau_Ketam">Pulau Ketam</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Pulau Klang" 
+            href="http://en.wikipedia.org/wiki/Pulau_Klang">Pulau 
+          Klang</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>Townships</TD>
+          <TD class="navbox-list navbox-even" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><A 
+            title="Alam Budiman" 
+            href="http://en.wikipedia.org/wiki/Alam_Budiman">Alam 
+            Budiman</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Alam Impian" 
+            href="http://en.wikipedia.org/wiki/Alam_Impian">Alam Impian</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Ara Damansara" 
+            href="http://en.wikipedia.org/wiki/Ara_Damansara">Ara 
+            Damansara</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Baru Klang" 
+            href="http://en.wikipedia.org/wiki/Bandar_Baru_Klang">Bandar Baru 
+            Klang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Kinrara" 
+            href="http://en.wikipedia.org/wiki/Bandar_Kinrara">Bandar 
+            Kinrara</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bukit Beruntung" 
+            href="http://en.wikipedia.org/wiki/Bukit_Beruntung">Bukit 
+            Beruntung</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bukit Jelutong" 
+            href="http://en.wikipedia.org/wiki/Bukit_Jelutong">Bukit 
+            Jelutong</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bukit Rimau" 
+            href="http://en.wikipedia.org/wiki/Bukit_Rimau">Bukit Rimau</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Bandar Botanic" 
+            href="http://en.wikipedia.org/wiki/Bandar_Botanic">Bandar 
+            Botanic</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Bukit Tinggi" 
+            href="http://en.wikipedia.org/wiki/Bandar_Bukit_Tinggi">Bandar Bukit 
+            Tinggi</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Country Homes" 
+            href="http://en.wikipedia.org/wiki/Bandar_Country_Homes">Bandar 
+            Country Homes</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Puteri Puchong" 
+            href="http://en.wikipedia.org/wiki/Bandar_Puteri_Puchong">Bandar 
+            Puteri Puchong</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Sri Damansara" 
+            href="http://en.wikipedia.org/wiki/Bandar_Sri_Damansara">Bandar Sri 
+            Damansara</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Seri Putra" 
+            href="http://en.wikipedia.org/wiki/Bandar_Seri_Putra">Bandar Seri 
+            Putra</A> <SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Saujana Putra" 
+            href="http://en.wikipedia.org/wiki/Bandar_Saujana_Putra">Bandar 
+            Saujana Putra</A> <SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Sultan Suleiman" 
+            href="http://en.wikipedia.org/wiki/Bandar_Sultan_Suleiman">Bandar 
+            Sultan Suleiman</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Tun Hussein Onn" 
+            href="http://en.wikipedia.org/wiki/Bandar_Tun_Hussein_Onn">Bandar 
+            Tun Hussein Onn</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bukit Antarabangsa" 
+            href="http://en.wikipedia.org/wiki/Bukit_Antarabangsa">Bukit 
+            Antarabangsa</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bukit Subang" 
+            href="http://en.wikipedia.org/wiki/Bukit_Subang">Bukit 
+            Subang</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Sungai Buaya" 
+            href="http://en.wikipedia.org/wiki/Bandar_Sungai_Buaya">Bandar 
+            Sungai Buaya</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Sungai Long" 
+            href="http://en.wikipedia.org/wiki/Bandar_Sungai_Long">Bandar Sungai 
+            Long</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bandar Mahkota Cheras" 
+            href="http://en.wikipedia.org/wiki/Bandar_Mahkota_Cheras">Bandar 
+            Mahkota Cheras</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            class=new title="Bandar Damai Perdana Cheras (page does not exist)" 
+            href="http://en.wikipedia.org/w/index.php?title=Bandar_Damai_Perdana_Cheras&amp;action=edit&amp;redlink=1">Bandar 
+            Damai Perdana Cheras</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Bandar Utama" 
+            href="http://en.wikipedia.org/wiki/Bandar_Utama">Bandar 
+            Utama</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Bernam Jaya" 
+            href="http://en.wikipedia.org/wiki/Bernam_Jaya">Bernam Jaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Country Heights" 
+            href="http://en.wikipedia.org/wiki/Country_Heights">Country 
+            Heights</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Damansara Jaya" 
+            href="http://en.wikipedia.org/wiki/Damansara_Jaya">Damansara 
+            Jaya</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Damansara Perdana" 
+            href="http://en.wikipedia.org/wiki/Damansara_Perdana">Damansara 
+            Perdana</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Damansara Utama" 
+            href="http://en.wikipedia.org/wiki/Damansara_Utama">Damansara 
+            Utama</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Denai Alam" 
+            href="http://en.wikipedia.org/wiki/Denai_Alam">Denai Alam</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Glenmarie Cove" 
+            href="http://en.wikipedia.org/wiki/Glenmarie_Cove">Glenmarie 
+            Cove</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title=I-City 
+            href="http://en.wikipedia.org/wiki/I-City">I-City</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Jade Hills" 
+            href="http://en.wikipedia.org/wiki/Jade_Hills">Jade Hills</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="KLIA Town Centre" 
+            href="http://en.wikipedia.org/wiki/KLIA_Town_Centre">KLIA Town 
+            Centre</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kota Damansara" 
+            href="http://en.wikipedia.org/wiki/Kota_Damansara">Kota 
+            Damansara</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Kota Kemuning" 
+            href="http://en.wikipedia.org/wiki/Kota_Kemuning">Kota 
+            Kemuning</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Lembah Beringin" 
+            href="http://en.wikipedia.org/wiki/Lembah_Beringin">Lembah 
+            Beringin</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Lembah Jaya" 
+            href="http://en.wikipedia.org/wiki/Lembah_Jaya">Lembah Jaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Mutiara Damansara" 
+            href="http://en.wikipedia.org/wiki/Mutiara_Damansara">Mutiara 
+            Damansara</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Pandan Indah" 
+            href="http://en.wikipedia.org/wiki/Pandan_Indah">Pandan 
+            Indah</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Pandan Jaya" 
+            href="http://en.wikipedia.org/wiki/Pandan_Jaya">Pandan Jaya</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Puchong Jaya" 
+            href="http://en.wikipedia.org/wiki/Puchong_Jaya">Puchong 
+            Jaya</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Puncak Alam" 
+            href="http://en.wikipedia.org/wiki/Puncak_Alam">Puncak Alam</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Puncak Perdana" 
+            href="http://en.wikipedia.org/wiki/Puncak_Perdana">Puncak 
+            Perdana</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Pusat Bandar Puchong" 
+            href="http://en.wikipedia.org/wiki/Pusat_Bandar_Puchong">Pusat 
+            Bandar Puchong</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Puchong Gateway" 
+            href="http://en.wikipedia.org/wiki/Puchong_Gateway">Puchong 
+            Gateway</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Putra Heights" 
+            href="http://en.wikipedia.org/wiki/Putra_Heights">Putra 
+            Heights</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Setia Alam" 
+            href="http://en.wikipedia.org/wiki/Setia_Alam">Setia Alam</A><SPAN 
+            style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A title="Saujana Impian" 
+            href="http://en.wikipedia.org/wiki/Saujana_Impian">Saujana 
+            Impian</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Berkeley" 
+            href="http://en.wikipedia.org/wiki/Taman_Berkeley">Taman 
+            Berkeley</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Cuepacs" 
+            href="http://en.wikipedia.org/wiki/Taman_Cuepacs">Taman 
+            Cuepacs</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Greenwood" 
+            href="http://en.wikipedia.org/wiki/Taman_Greenwood">Taman 
+            Greenwood</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Hillview" 
+            href="http://en.wikipedia.org/wiki/Taman_Hillview">Taman 
+            Hillview</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Keramat" 
+            href="http://en.wikipedia.org/wiki/Taman_Keramat">Taman 
+            Keramat</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Sri Andalas" 
+            href="http://en.wikipedia.org/wiki/Taman_Sri_Andalas">Taman Sri 
+            Andalas</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Sri Muda" 
+            href="http://en.wikipedia.org/wiki/Taman_Sri_Muda">Taman Sri 
+            Muda</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Taman Tun Teja" 
+            href="http://en.wikipedia.org/wiki/Taman_Tun_Teja">Taman Tun 
+            Teja</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="TTDI Jaya" href="http://en.wikipedia.org/wiki/TTDI_Jaya">TTDI 
+            Jaya</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Puncak Jalil" 
+            href="http://en.wikipedia.org/wiki/Puncak_Jalil">Puncak 
+            Jalil</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="UEP Subang Jaya" 
+            href="http://en.wikipedia.org/wiki/UEP_Subang_Jaya">UEP Subang 
+            Jaya</A><SPAN style="FONT-WEIGHT: bold">&nbsp;·</SPAN> <A 
+            title="Valencia, Sungai Buloh" 
+            href="http://en.wikipedia.org/wiki/Valencia,_Sungai_Buloh">Valencia</A></DIV></TD></TR>
+        <TR style="HEIGHT: 2px">
+          <TD></TD></TR>
+        <TR>
+          <TD class=navbox-group>Special Zones</TD>
+          <TD class="navbox-list navbox-odd" 
+          style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 2px solid; WIDTH: 100%; PADDING-TOP: 0px; TEXT-ALIGN: left">
+            <DIV 
+            style="PADDING-RIGHT: 0.25em; PADDING-LEFT: 0.25em; PADDING-BOTTOM: 0em; PADDING-TOP: 0em"><SPAN 
+            style="WHITE-SPACE: nowrap"><STRONG class=selflink>Multimedia Super 
+            Corridor</STRONG></SPAN></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- 
+NewPP limit report
+Preprocessor node count: 1239/1000000
+Post-expand include size: 63814/2048000 bytes
+Template argument size: 25342/2048000 bytes
+Expensive parser function count: 0/500
+--><!-- Saved in parser cache with key enwiki:pcache:idhash:25433713-0!1!0!default!!en!4 and timestamp 20100220111859 -->
+<DIV class=printfooter>Retrieved from "<A 
+href="http://en.wikipedia.org/wiki/MSC_Malaysia">http://en.wikipedia.org/wiki/MSC_Malaysia</A>"</DIV>
+<DIV class=catlinks id=catlinks>
+<DIV id=mw-normal-catlinks><A title=Special:Categories 
+href="http://en.wikipedia.org/wiki/Special:Categories">Categories</A>: <SPAN 
+dir=ltr><A title="Category:Development Corridors in Malaysia" 
+href="http://en.wikipedia.org/wiki/Category:Development_Corridors_in_Malaysia">Development 
+Corridors in Malaysia</A></SPAN> | <SPAN dir=ltr><A 
+title="Category:Economy of Malaysia" 
+href="http://en.wikipedia.org/wiki/Category:Economy_of_Malaysia">Economy of 
+Malaysia</A></SPAN> | <SPAN dir=ltr><A title="Category:Geography of Malaysia" 
+href="http://en.wikipedia.org/wiki/Category:Geography_of_Malaysia">Geography of 
+Malaysia</A></SPAN> | <SPAN dir=ltr><A 
+title="Category:High-technology business districts" 
+href="http://en.wikipedia.org/wiki/Category:High-technology_business_districts">High-technology 
+business districts</A></SPAN> | <SPAN dir=ltr><A title="Category:MSC Malaysia" 
+href="http://en.wikipedia.org/wiki/Category:MSC_Malaysia">MSC 
+Malaysia</A></SPAN></DIV></DIV><!-- end content -->
+<DIV class=visualClear></DIV></DIV></DIV></DIV>
+<DIV id=column-one>
+<DIV style="margin-top:100px;" class=portlet id=p-cactions>
+<H5>Views</H5>
+<DIV class=pBody>
+<UL lang=en xml:lang="en">
+  <LI class=selected id=ca-nstab-main><A title="View the content page [c]" 
+  accessKey=c href="#">Article</A> 
+  <LI id=ca-talk><A title="Discussion about the content page [t]" accessKey=t 
+  href="#a">Discussion</A> 
+  <LI id=ca-edit><A 
+  title="You can edit this page. &#10;Please use the preview button before saving. [e]" 
+  accessKey=e 
+  href="#">Edit 
+  this page</A> 
+  <LI id=ca-history><A title="Past versions of this page [h]" accessKey=h 
+  href="#">History</A> 
+  </LI></UL></DIV></DIV>
+<DIV style="margin-top:110px;" class=portlet id=p-personal>
+<H5>Personal tools</H5>
+<DIV class=pBody>
+<UL lang=en xml:lang="en">
+  <LI id=pt-optin-try><A class=no-text-transform title="Try out new features" 
+  href="#">Try 
+  Beta</A> 
+  <LI id=pt-login><A 
+  title="You are encouraged to log in; however, it is not mandatory. [o]" 
+  accessKey=o 
+  href="#">Log 
+  in / create account</A> </LI></UL></DIV></DIV>
+<DIV style="margin-top:100px" class=portlet id=p-logo><A style="BACKGROUND-IMAGE: url(http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png)" 
+href="#"></A></DIV>
+<SCRIPT type=text/javascript> if (window.isMSIE55) fixalpha(); </SCRIPT>
+
+<DIV class="generated-sidebar portlet" id=p-navigation>
+<H5 lang=en xml:lang="en">Navigation</H5>
+<DIV class=pBody>
+<UL>
+  <LI id=n-mainpage-description><A title="Visit the main page [z]" accessKey=z 
+  href="http://en.wikipedia.org/wiki/Main_Page">Main page</A> 
+  <LI id=n-contents><A title="Guides to browsing Wikipedia" 
+  href="http://en.wikipedia.org/wiki/Portal:Contents">Contents</A> 
+  <LI id=n-featuredcontent><A title="Featured content — the best of Wikipedia" 
+  href="http://en.wikipedia.org/wiki/Portal:Featured_content">Featured 
+  content</A> 
+  <LI id=n-currentevents><A 
+  title="Find background information on current events" 
+  href="http://en.wikipedia.org/wiki/Portal:Current_events">Current events</A> 
+  <LI id=n-randompage><A title="Load a random article [x]" accessKey=x 
+  href="http://en.wikipedia.org/wiki/Special:Random">Random article</A> 
+</LI></UL></DIV></DIV>
+<DIV class=portlet id=p-search>
+<H5 lang=en xml:lang="en"><LABEL for=searchInput>Search</LABEL></H5>
+<DIV class=pBody id=searchBody>
+<FORM id=searchform action=/w/index.php><INPUT type=hidden value=Special:Search 
+name=title> <INPUT id=searchInput title="Search Wikipedia" accessKey=f 
+name=search> <INPUT class=searchButton id=searchGoButton title="Go to a page with this exact name if one exists" type=submit value=Go name=go>&nbsp; 
+<INPUT class=searchButton id=mw-searchButton title="Search Wikipedia for this text" type=submit value=Search name=fulltext> 
+</FORM></DIV></DIV>
+<DIV class="generated-sidebar portlet" id=p-interaction>
+<H5 lang=en xml:lang="en">Interaction</H5>
+<DIV class=pBody>
+<UL>
+  <LI id=n-aboutsite><A title="Find out about Wikipedia" 
+  href="http://en.wikipedia.org/wiki/Wikipedia:About">About Wikipedia</A> 
+  <LI id=n-portal><A 
+  title="About the project, what you can do, where to find things" 
+  href="http://en.wikipedia.org/wiki/Wikipedia:Community_portal">Community 
+  portal</A> 
+  <LI id=n-recentchanges><A title="The list of recent changes in the wiki [r]" 
+  accessKey=r href="http://en.wikipedia.org/wiki/Special:RecentChanges">Recent 
+  changes</A> 
+  <LI id=n-contact><A title="How to contact Wikipedia" 
+  href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</A> 
+
+  <LI id=n-sitesupport><A title="Support us" 
+  href="http://wikimediafoundation.org/wiki/Support_Wikipedia/en">Donate to 
+  Wikipedia</A> 
+  <LI id=n-help><A title="Guidance on how to use and edit Wikipedia" 
+  href="http://en.wikipedia.org/wiki/Help:Contents">Help</A> 
+</LI></UL></DIV></DIV>
+<DIV class=portlet id=p-tb>
+<H5 lang=en xml:lang="en">Toolbox</H5>
+<DIV class=pBody>
+<UL>
+  <LI id=t-whatlinkshere><A 
+  title="List of all English Wikipedia pages containing links to this page [j]" 
+  accessKey=j 
+  href="http://en.wikipedia.org/wiki/Special:WhatLinksHere/MSC_Malaysia">What 
+  links here</A> 
+  <LI id=t-recentchangeslinked><A 
+  title="Recent changes in pages linked from this page [k]" accessKey=k 
+  href="http://en.wikipedia.org/wiki/Special:RecentChangesLinked/MSC_Malaysia">Related 
+  changes</A> 
+  <LI id=t-upload><A title="Upload files [u]" accessKey=u 
+  href="http://en.wikipedia.org/wiki/Wikipedia:Upload">Upload file</A> 
+  <LI id=t-specialpages><A title="List of all special pages [q]" accessKey=q 
+  href="http://en.wikipedia.org/wiki/Special:SpecialPages">Special pages</A> 
+  <LI id=t-print><A title="Printable version of this page [p]" accessKey=p 
+  href="http://en.wikipedia.org/w/index.php?title=MSC_Malaysia&amp;printable=yes" 
+  rel=alternate>Printable version</A> 
+  <LI id=t-permalink><A title="Permanent link to this revision of the page" 
+  href="http://en.wikipedia.org/w/index.php?title=MSC_Malaysia&amp;oldid=332245919">Permanent 
+  link</A>
+  <LI id=t-cite><A title="Information on how to cite this page" 
+  href="http://en.wikipedia.org/w/index.php?title=Special:Cite&amp;page=MSC_Malaysia&amp;id=332245919">Cite 
+  this page</A> </LI></UL></DIV></DIV>
+<DIV class=portlet id=p-lang>
+<H5 lang=en xml:lang="en">Languages</H5>
+<DIV class=pBody>
+<UL>
+  <LI class=interwiki-de><A 
+  href="http://de.wikipedia.org/wiki/Multimedia_Super_Corridor">Deutsch</A> 
+  <LI class=interwiki-fr><A 
+  href="http://fr.wikipedia.org/wiki/Super_Corridor_Multim%C3%A9dia">Français</A> 
+
+  <LI class=interwiki-ms><A 
+  href="http://ms.wikipedia.org/wiki/Koridor_Raya_Multimedia">Bahasa Melayu</A> 
+  <LI class=interwiki-ja><A 
+  href="http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%AA%E3%83%89%E3%83%BC">日本語</A> 
+
+  <LI class=interwiki-pl><A 
+  href="http://pl.wikipedia.org/wiki/Multimedia_Super_Corridor">Polski</A> 
+  <LI class=interwiki-pt><A 
+  href="http://pt.wikipedia.org/wiki/Multimedia_Super_Corridor">Português</A> 
+  <LI class=interwiki-sv><A 
+  href="http://sv.wikipedia.org/wiki/MSC_Malaysia">Svenska</A> 
+  <LI class=interwiki-zh><A 
+  href="http://zh.wikipedia.org/wiki/%E5%A4%9A%E5%AA%92%E4%BD%93%E8%B6%85%E7%BA%A7%E8%B5%B0%E5%BB%8A">中文</A> 
+
+  <LI class=interwiki-fi><A 
+  href="http://fi.wikipedia.org/wiki/Multimedia_Super_Corridor">Suomi</A> 
+</LI></UL></DIV></DIV></DIV><!-- end of the left (by default at least) column -->
+<DIV class=visualClear></DIV>
+<DIV id=footer>
+<DIV id=f-poweredbyico><A href="http://www.mediawiki.org/"><IMG height=31 
+alt="Powered by MediaWiki" 
+src="MSC_Malaysia_Wikipedia_files/poweredby_mediawiki_88x31.png" 
+width=88></A></DIV>
+<DIV id=f-copyrightico><A href="http://wikimediafoundation.org/"><IMG height=31 
+alt="Wikimedia Foundation" 
+src="MSC_Malaysia_Wikipedia_files/wikimedia-button.png" width=88></A></DIV>
+<UL id=f-list>
+  <LI id=lastmod>This page was last modified on 17 December 2009 at 08:18.<BR>
+  <LI id=copyright>Text is available under the <A 
+  href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" 
+  rel=license>Creative Commons Attribution-ShareAlike License</A><A 
+  style="DISPLAY: none" href="http://creativecommons.org/licenses/by-sa/3.0/" 
+  rel=license></A>; additional terms may apply. See <A 
+  href="http://wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</A> for 
+  details.<BR>Wikipedia® is a registered trademark of the <A 
+  href="http://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</A>, a 
+  non-profit organization.<BR>
+  <LI class=noprint><A class=internal 
+  href="http://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</A> 
+  <LI id=privacy><A title="wikimedia:Privacy policy" 
+  href="http://wikimediafoundation.org/wiki/Privacy_policy">Privacy policy</A> 
+  <LI id=about><A title=Wikipedia:About 
+  href="http://en.wikipedia.org/wiki/Wikipedia:About">About Wikipedia</A> 
+  <LI id=disclaimer><A title="Wikipedia:General disclaimer" 
+  href="http://en.wikipedia.org/wiki/Wikipedia:General_disclaimer">Disclaimers</A> 
+  </LI></UL></DIV></DIV>
+<SCRIPT type=text/javascript>if (window.runOnloadHook) runOnloadHook();</SCRIPT>
+<!-- Served by srv106 in 0.809 secs. --></BODY></HTML>

@@ -1,0 +1,8 @@
+To:	to@test.com
+Cc:	cc@test.com
+Subject:	try
+Attachments:	bcdedit add ntldr.txt
+
+Masscnms
+Dmksnvckds
+sdnvckmsd

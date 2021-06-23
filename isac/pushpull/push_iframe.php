@@ -1,0 +1,1 @@
+<iframe height="500px"  frameborder="0" width="100%" src="http://<?php echo $_GET['server_ip']; ?>:8080/isac/pushpull/push_client.php?kod_iac=<?php echo $_GET['kod_iac']; ?>"></iframe>

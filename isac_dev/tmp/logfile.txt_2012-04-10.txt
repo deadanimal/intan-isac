@@ -1,0 +1,268 @@
+01:39:08 (push_peserta) IAC - Table pro_sesi : '827' inserted.
+01:39:08 (push_peserta) IAC - Table prs_penilaian : '767' inserted.
+01:39:08 (push_peserta) INTAN BK - Table pro_sesi : '827' updated.
+01:39:08 (push_peserta) INTAN BK - Table prs_penilaian : '767' updated.
+01:39:08 (push_peserta) IAC - Table pro_sesi : '828' inserted.
+01:39:08 (push_peserta) IAC - Table prs_penilaian : '768' inserted.
+01:39:08 (push_peserta) INTAN BK - Table pro_sesi : '828' updated.
+01:39:08 (push_peserta) INTAN BK - Table prs_penilaian : '768' updated.
+01:39:08 (push_peserta) IAC - Table pro_sesi : '829' inserted.
+01:39:08 (push_peserta) IAC - Table prs_penilaian : '769' inserted.
+01:39:08 (push_peserta) INTAN BK - Table pro_sesi : '829' updated.
+01:39:08 (push_peserta) INTAN BK - Table prs_penilaian : '769' updated.
+01:39:08 (push_peserta) IAC - Table pro_sesi : '833' inserted.
+01:39:08 (push_peserta) IAC - Table prs_penilaian : '773' inserted.
+01:39:08 (push_peserta) INTAN BK - Table pro_sesi : '833' updated.
+01:39:08 (push_peserta) INTAN BK - Table prs_penilaian : '773' updated.
+01:39:08 (push_peserta) IAC - Table pro_sesi : '834' inserted.
+01:39:08 (push_peserta) IAC - Table prs_penilaian : '774' inserted.
+01:39:08 (push_peserta) INTAN BK - Table pro_sesi : '834' updated.
+01:39:08 (push_peserta) INTAN BK - Table prs_penilaian : '774' updated.
+01:39:08 (push_peserta) IAC - Table pro_sesi : '835' inserted.
+01:39:08 (push_peserta) IAC - Table prs_penilaian : '775' inserted.
+01:39:08 (push_peserta) INTAN BK - Table pro_sesi : '835' updated.
+01:39:08 (push_peserta) INTAN BK - Table prs_penilaian : '775' updated.
+01:39:09 (push_peserta) IAC - Table pro_sesi : '844' inserted.
+01:39:09 (push_peserta) IAC - Table prs_penilaian : '784' inserted.
+01:39:09 (push_peserta) INTAN BK - Table pro_sesi : '844' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_penilaian : '784' updated.
+01:39:09 (push_peserta) IAC - Table pro_sesi : '845' inserted.
+01:39:09 (push_peserta) IAC - Table prs_penilaian : '785' inserted.
+01:39:09 (push_peserta) INTAN BK - Table pro_sesi : '845' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_penilaian : '785' updated.
+01:39:09 (push_peserta) IAC - Table pro_sesi : '846' inserted.
+01:39:09 (push_peserta) IAC - Table prs_penilaian : '786' inserted.
+01:39:09 (push_peserta) INTAN BK - Table pro_sesi : '846' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_penilaian : '786' updated.
+01:39:09 (push_peserta) IAC - Table pro_sesi : '847' inserted.
+01:39:09 (push_peserta) IAC - Table prs_penilaian : '787' inserted.
+01:39:09 (push_peserta) INTAN BK - Table pro_sesi : '847' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_penilaian : '787' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '2171' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '2180' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '2168' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '2171' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '2168' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '2180' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '8897' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '9451' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '8885' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '8897' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '8885' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '9451' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '8900' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '9454' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '8888' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '8900' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '8888' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '9454' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '8912' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '9467' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '8900' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '8912' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '8900' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '9467' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '9033' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '9612' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '9021' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '9033' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '9021' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '9612' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '10826' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '11321' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '10590' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '10826' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '10590' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '11321' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '12287' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '13149' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '12050' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '12287' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12050' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '13149' updated.
+01:39:09 (push_peserta) IAC - Table pro_peserta : '11857' updated.
+01:39:09 (push_peserta) IAC - Table prs_permohonan : '12658' updated.
+01:39:09 (push_peserta) IAC - Table pro_perkhidmatan : '11620' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_peserta : '11857' updated.
+01:39:09 (push_peserta) INTAN BK - Table pro_perkhidmatan : '11620' updated.
+01:39:09 (push_peserta) INTAN BK - Table prs_permohonan : '12658' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12211' updated.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13062' updated.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '11974' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12211' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '11974' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13062' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12410' updated.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13328' updated.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12173' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12410' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12173' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13328' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '8234' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13854' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '8222' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '8234' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '8222' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13854' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12622' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13618' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12385' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12622' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12385' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13618' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12645' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13642' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12408' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12645' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12408' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13642' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12649' updated.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13646' updated.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12412' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12649' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12412' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13646' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12656' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13655' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12419' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12656' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12419' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13655' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12659' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13660' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12422' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12659' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12422' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13660' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12660' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13853' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12423' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12660' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12423' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13853' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12665' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13667' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12428' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12665' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12428' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13667' updated.
+01:39:10 (push_peserta) IAC - Table pro_peserta : '12667' inserted.
+01:39:10 (push_peserta) IAC - Table prs_permohonan : '13669' inserted.
+01:39:10 (push_peserta) IAC - Table pro_perkhidmatan : '12430' inserted.
+01:39:10 (push_peserta) INTAN BK - Table pro_peserta : '12667' updated.
+01:39:10 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12430' updated.
+01:39:10 (push_peserta) INTAN BK - Table prs_permohonan : '13669' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12668' inserted.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13670' inserted.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12431' inserted.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12668' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12431' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13670' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12669' updated.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13671' updated.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12432' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12669' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12432' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13671' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12673' inserted.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13676' inserted.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12436' inserted.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12673' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12436' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13676' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12675' inserted.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13678' inserted.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12438' inserted.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12675' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12438' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13678' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12693' updated.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13707' updated.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12456' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12693' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12456' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13707' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12118' updated.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13708' updated.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '11881' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12118' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '11881' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13708' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12738' inserted.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13770' inserted.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12501' inserted.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12738' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12501' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13770' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12755' updated.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13793' updated.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12518' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12755' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12518' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13793' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12758' inserted.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13796' inserted.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12521' inserted.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12758' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12521' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13796' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '10206' updated.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13812' updated.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '9970' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '10206' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '9970' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13812' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12774' inserted.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13814' inserted.
+01:39:11 (push_peserta) IAC - Table pro_perkhidmatan : '12537' inserted.
+01:39:11 (push_peserta) INTAN BK - Table pro_peserta : '12774' updated.
+01:39:11 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12537' updated.
+01:39:11 (push_peserta) INTAN BK - Table prs_permohonan : '13814' updated.
+01:39:11 (push_peserta) IAC - Table pro_peserta : '12789' inserted.
+01:39:11 (push_peserta) IAC - Table prs_permohonan : '13829' inserted.
+01:39:12 (push_peserta) IAC - Table pro_perkhidmatan : '12552' inserted.
+01:39:12 (push_peserta) INTAN BK - Table pro_peserta : '12789' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12552' updated.
+01:39:12 (push_peserta) INTAN BK - Table prs_permohonan : '13829' updated.
+01:39:12 (push_peserta) IAC - Table pro_peserta : '12793' updated.
+01:39:12 (push_peserta) IAC - Table prs_permohonan : '13833' updated.
+01:39:12 (push_peserta) IAC - Table pro_perkhidmatan : '12556' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_peserta : '12793' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12556' updated.
+01:39:12 (push_peserta) INTAN BK - Table prs_permohonan : '13833' updated.
+01:39:12 (push_peserta) IAC - Table pro_peserta : '12794' inserted.
+01:39:12 (push_peserta) IAC - Table prs_permohonan : '13834' inserted.
+01:39:12 (push_peserta) IAC - Table pro_perkhidmatan : '12557' inserted.
+01:39:12 (push_peserta) INTAN BK - Table pro_peserta : '12794' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12557' updated.
+01:39:12 (push_peserta) INTAN BK - Table prs_permohonan : '13834' updated.
+01:39:12 (push_peserta) IAC - Table pro_peserta : '12797' updated.
+01:39:12 (push_peserta) IAC - Table prs_permohonan : '13838' updated.
+01:39:12 (push_peserta) IAC - Table pro_perkhidmatan : '12560' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_peserta : '12797' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12560' updated.
+01:39:12 (push_peserta) INTAN BK - Table prs_permohonan : '13838' updated.
+01:39:12 (push_peserta) IAC - Table pro_peserta : '12798' inserted.
+01:39:12 (push_peserta) IAC - Table prs_permohonan : '13839' inserted.
+01:39:12 (push_peserta) IAC - Table pro_perkhidmatan : '12561' inserted.
+01:39:12 (push_peserta) INTAN BK - Table pro_peserta : '12798' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12561' updated.
+01:39:12 (push_peserta) INTAN BK - Table prs_permohonan : '13839' updated.
+01:39:12 (push_peserta) IAC - Table pro_peserta : '12808' inserted.
+01:39:12 (push_peserta) IAC - Table prs_permohonan : '13851' inserted.
+01:39:12 (push_peserta) IAC - Table pro_perkhidmatan : '12571' inserted.
+01:39:12 (push_peserta) INTAN BK - Table pro_peserta : '12808' updated.
+01:39:12 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12571' updated.
+01:39:12 (push_peserta) INTAN BK - Table prs_permohonan : '13851' updated.
+03:00:18 (push_peserta) IAC - Table pro_peserta : '12211' inserted.
+03:00:18 (push_peserta) IAC - Table prs_permohonan : '13062' inserted.
+03:00:18 (push_peserta) IAC - Table pro_perkhidmatan : '11974' inserted.
+03:00:18 (push_peserta) INTAN BK - Table pro_peserta : '12211' updated.
+03:00:18 (push_peserta) INTAN BK - Table pro_perkhidmatan : '11974' updated.
+03:00:18 (push_peserta) INTAN BK - Table prs_permohonan : '13062' updated.
+03:00:18 (push_peserta) IAC - Table pro_peserta : '12809' updated.
+03:00:18 (push_peserta) IAC - Table prs_permohonan : '13852' updated.
+03:00:18 (push_peserta) IAC - Table pro_perkhidmatan : '12572' updated.
+03:00:18 (push_peserta) INTAN BK - Table pro_peserta : '12809' updated.
+03:00:18 (push_peserta) INTAN BK - Table pro_perkhidmatan : '12572' updated.
+03:00:18 (push_peserta) INTAN BK - Table prs_permohonan : '13852' updated.

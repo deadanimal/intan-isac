@@ -1,0 +1,2 @@
+23:10:27 (pull_client) ================= Start Process PULL to Intan BK ==================
+23:10:27 (pull_client) ================= End Process PULL to Intan BK ==================

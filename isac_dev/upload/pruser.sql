@@ -1,0 +1,81 @@
+-- phpMyAdmin SQL Dump
+-- version 2.11.4
+-- http://www.phpmyadmin.net
+--
+-- Host: localhost
+-- Generation Time: Oct 26, 2009 at 01:38 AM
+-- Server version: 5.0.51
+-- PHP Version: 5.2.5
+
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+--
+-- Database: `isac`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `pruser`
+--
+
+CREATE TABLE IF NOT EXISTS `pruser` (
+  `USERID` int(50) NOT NULL auto_increment,
+  `USERNAME` varchar(100) default NULL,
+  `USERPASSWORD` varchar(100) default NULL,
+  `USERGROUPCODE` varchar(20) default NULL,
+  `USERTYPECODE` varchar(20) default NULL,
+  `CUSTOMERID` varchar(20) default NULL,
+  `DEPARTMENTCODE` varchar(20) default NULL,
+  `OFFICERID` varchar(20) default NULL,
+  `IMAGEFILE` varchar(100) default NULL,
+  `CREATEDDATE` date default NULL,
+  `USERLOGINSTATUSCODE` varchar(20) default NULL,
+  `STATUSCODE` varchar(20) default NULL,
+  `USERLOGINTIMESTAMP` date default NULL,
+  `NIRC` varchar(20) default NULL,
+  `NAME` varchar(100) default NULL,
+  `MOBILE_PHONE` varchar(15) default NULL,
+  `OFFICE_PHONE` varchar(15) default NULL,
+  `OFFICE_EXT` varchar(6) default NULL,
+  `HOME_PHONE` varchar(15) default NULL,
+  `ADDRESS` varchar(100) default NULL,
+  `POSCODE` varchar(6) default NULL,
+  `STATE` varchar(5) default NULL,
+  `CITY` varchar(60) default NULL,
+  `JANTINA` varchar(2) default NULL,
+  `BANGSA` varchar(2) default NULL,
+  `AGAMA` varchar(2) default NULL,
+  `LASTUPDATE` varchar(10) default NULL,
+  `DOB` varchar(10) default NULL,
+  `DESIGNATION` varchar(4) default NULL,
+  `EMAIL` varchar(100) default NULL,
+  `userchangepasswordtimestamp` date default NULL,
+  PRIMARY KEY  (`USERID`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=35 ;
+
+--
+-- Dumping data for table `pruser`
+--
+
+INSERT INTO `pruser` (`USERID`, `USERNAME`, `USERPASSWORD`, `USERGROUPCODE`, `USERTYPECODE`, `CUSTOMERID`, `DEPARTMENTCODE`, `OFFICERID`, `IMAGEFILE`, `CREATEDDATE`, `USERLOGINSTATUSCODE`, `STATUSCODE`, `USERLOGINTIMESTAMP`, `NIRC`, `NAME`, `MOBILE_PHONE`, `OFFICE_PHONE`, `OFFICE_EXT`, `HOME_PHONE`, `ADDRESS`, `POSCODE`, `STATE`, `CITY`, `JANTINA`, `BANGSA`, `AGAMA`, `LASTUPDATE`, `DOB`, `DESIGNATION`, `EMAIL`, `userchangepasswordtimestamp`) VALUES
+(1, 'admin', '202cb962ac59075b964b07152d234b70', 'ADMIN', 'ADMIN', NULL, '110200', '24', NULL, NULL, '1', NULL, '2009-10-26', NULL, 'Admin', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'admin@gmail.com', NULL),
+(2, 'user', '202cb962ac59075b964b07152d234b70', 'ADMIN', 'ADMIN', NULL, NULL, NULL, NULL, NULL, 'X', NULL, '2009-10-19', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(4, 'qusiah', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'Nor Qusiah', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'qusiah@gmail.com', NULL),
+(31, 'try', 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, NULL, NULL, 'try', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, 'try', NULL),
+(7, 'zz', '25ed1bcb423b0b7200f485fc5ff71c8e', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'zz', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'zz', NULL),
+(9, 'qq', '099b3b060154898840f0ebdfb46ec78f', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'qusiah', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'qusiah@gmail.com', NULL),
+(10, 'gg', '73c18c59a39b18382081ec00bb456d43', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'gg', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'gg', NULL),
+(11, 'ee', '08a4415e9d594ff960030b921d42b91e', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'ee', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'ee', NULL),
+(12, 'vv', 'c4055e3a20b6b3af3d10590ea446ef6c', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-17', NULL, NULL, NULL, NULL, 'vv', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'vv', NULL),
+(32, 'qusiah', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, NULL, NULL, 'qusiah', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'aa@gmail.com', NULL),
+(14, 'ana', 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-18', NULL, NULL, NULL, NULL, 'ana ana', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-22', NULL, NULL, 'ana@yahoo.com', NULL),
+(30, 'try', '080f651e3fcca17df3a47c2cecfcb880', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, NULL, NULL, 'try', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'try', NULL),
+(34, 'qwqw', 'e110fb45bc4f7cc5d367b06bfbc8e5c3', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, NULL, NULL, 'qwqw', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'qwqw', NULL),
+(33, 'qwqw', 'e110fb45bc4f7cc5d367b06bfbc8e5c3', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, NULL, NULL, 'qwqw', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'qwqw', NULL),
+(18, 'zxzx', '24b4511b36ae35c1f232602c9694c065', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-19', 'X', NULL, '2009-10-19', NULL, 'zxzx', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'zxzx', NULL),
+(19, 'qq', 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-19', NULL, NULL, NULL, NULL, 'qq zxzxxx', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, 'qq@yahoo.com', NULL),
+(20, 'zul', 'd41d8cd98f00b204e9800998ecf8427e', 'PENYELARAS', NULL, NULL, NULL, NULL, NULL, '2009-10-19', 'X', NULL, '2009-10-19', NULL, 'zull', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-19', NULL, NULL, 'zul@gmail.com', NULL),
+(28, 'ana', '202cb962ac59075b964b07152d234b70', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-22', NULL, NULL, NULL, NULL, 'ana', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'ana@yahoo.com', NULL),
+(26, 'farhan', 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-21', NULL, NULL, NULL, NULL, 'farhan farhana', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-22', NULL, NULL, 'farhan@email.com', NULL),
+(29, 'nazrul', 'd41d8cd98f00b204e9800998ecf8427e', NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, NULL, NULL, 'nazrul razak', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '2009-10-24', NULL, NULL, 'nazrul@gmail.com', NULL);

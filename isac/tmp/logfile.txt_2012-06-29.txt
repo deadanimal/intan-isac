@@ -1,0 +1,6 @@
+04:51:22 (pull_client) ================= Start Process PULL to Intan BK ==================
+04:51:22 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '2934' inserted.
+04:51:22 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '3233' inserted.
+04:51:22 (pull_client) IAC - Table pro_peserta : '12036' updated.
+04:51:23 (pull_client) IAC - Table prs_permohonan : '3830' updated.
+04:51:23 (pull_client) ================= End Process PULL to Intan BK ==================

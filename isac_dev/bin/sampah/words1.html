@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<TITLE>MSWORD App through JavaScript</TITLE>
+</HEAD>
+<BODY>
+<script>
+var w=new ActiveXObject('Word.Application'); 
+var obj;
+if (w != null)
+{
+w.Visible = true;
+obj=w.Documents.Open("\\\\192.168.2.7\\xampp\\htdocs\\isac\\kemahiran\\word2007.docx"); 
+}
+</script>
+
+</BODY>
+</HTML>

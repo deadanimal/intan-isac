@@ -1,0 +1,80 @@
+select
+a.nama_peserta AS 'Nama',
+if(a.no_kad_pengenalan,a.no_kad_pengenalan,a.no_kad_pengenalan_lain)  AS 'No.ID',
+CONCAT('<a href="index.php?page=page_wrapper&menuID=142&keyid=',if(a.no_kad_pengenalan,a.no_kad_pengenalan,a.no_kad_pengenalan_lain),'&keyid2=',b.id_sesi,'"onclick=','"',"window.open('custom_isac/keputusan_keseluruhan_cetak_slip.php?keyid=",if(a.no_kad_pengenalan,a.no_kad_pengenalan,a.no_kad_pengenalan_lain),"&keyid2=",b.id_sesi,"','Slip','width=1024,height=768,top=0,left=0,scrollbars=yes')",'"','>',e.kod_status_kelulusan,'</a>') as 'Slip Keputusan'
+
+from
+usr_isac.pro_peserta a,
+usr_isac.pro_sesi b,
+usr_isac.prs_permohonan c,
+usr_isac.prs_penilaian d,
+usr_isac.prs_penilaian_peserta e
+
+where
+
+a.id_peserta = c.id_peserta 
+and b.id_sesi = c.id_sesi
+and c.id_sesi = d.id_sesi
+and d.id_penilaian = e.id_penilaian
+and c.id_peserta = e.id_peserta
+and a.no_kad_pengenalan = if('{POST|input_map_207_1187}'='',a.no_kad_pengenalan,'{POST|input_map_207_1187}')
+and b.kod_sesi_penilaian = if('{POST|input_map_207_1192}'='',b.kod_sesi_penilaian,'{POST|input_map_207_1192}')
+and b.tarikh_sesi=if('{POST|input_map_207_1190}'='',b.tarikh_sesi,str_to_date('{POST|input_map_207_1190}','%d-%m-%Y'))
+and b.kod_iac = if('{POST|input_map_207_1189}'='',b.kod_iac,'{POST|input_map_207_1189}')
+
+
+
+
+
+SELECT 
+a.gelaran_ketua_jabatan AS 'Jawatan Ketua Jabatan :',
+(SELECT description1 FROM refgeneral 
+WHERE
+mastercode=(SELECT referencecode
+FROM refgeneral where mastercode='XXX' 
+AND description1='KEMENTERIAN') 
+AND
+referencestatuscode='00' 
+AND referencecode=a.kod_kementerian) AS 'Kementerian/Agensi :',
+
+(SELECT description1 FROM refgeneral 
+WHERE
+mastercode=(SELECT referencecode
+FROM refgeneral where mastercode='XXX' 
+AND description1='JABATAN') 
+AND
+referencestatuscode='00' 
+AND referencecode=a.kod_jabatan) AS 'Jabatan :',
+a.bahagian AS 'Bahagian :',
+a.alamat_1 AS 'Alamat Pejabat 1 :',
+a.alamat_2 AS 'Alamat Pejabat 2 :',
+a.alamat_3 AS 'Alamat Pejabat 3 :',
+a.poskod AS 'Poskod :',
+a.bandar AS 'Bandar :',
+
+(SELECT description1 FROM refgeneral 
+WHERE
+mastercode=(SELECT referencecode
+FROM refgeneral where mastercode='XXX' 
+AND description1='NEGERI') 
+AND
+referencestatuscode='00' 
+AND referencecode=a.kod_negeri) AS 'Negeri :',
+(SELECT description1 FROM refgeneral 
+WHERE
+mastercode=(SELECT referencecode
+FROM refgeneral where mastercode='XXX' 
+AND description1='NEGARA') 
+AND
+referencestatuscode='00' 
+AND referencecode=a.kod_negara) AS 'Negara :',
+
+a.nama_penyelia AS 'Nama Penyelia :',
+a.emel_penyelia AS 'Emel Penyelia :',
+a.no_telefon_penyelia AS 'No. Telefon Penyelia :',
+a.no_fax_penyelia AS 'No. Fax Penyelia :'
+
+FROM usr_isac.pro_tempat_tugas a,usr_isac.pro_peserta b
+WHERE
+(a.id_peserta=b.id_peserta) AND
+a.id_peserta = '{GET|keyid2}'

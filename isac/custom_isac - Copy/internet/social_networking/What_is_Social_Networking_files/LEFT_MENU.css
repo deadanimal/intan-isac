@@ -1,0 +1,39 @@
+A.mainlinksLEFT_MENU:link {
+	FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+A.mainlinksLEFT_MENU:visited {
+	FONT-SIZE: 10pt; COLOR: midnightblue; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+A.mainlinksLEFT_MENU:active {
+	FONT-SIZE: 10pt; COLOR: midnightblue; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+A.mainlinksLEFT_MENU:hover {
+	FONT-SIZE: 10pt; COLOR: purple; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+A.sublinksLEFT_MENU:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+A.sublinksLEFT_MENU:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: red; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+A.sublinksLEFT_MENU:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: red; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+A.sublinksLEFT_MENU:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: Trebuchet MS; TEXT-DECORATION: none
+}
+TABLE.mainLEFT_MENU {
+	FONT: 10pt "Trebuchet MS"; WIDTH: 100%; COLOR: black; BACKGROUND-COLOR: aliceblue; TEXT-ALIGN: left
+}
+TABLE.mainLEFT_MENU TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 10pt; PADDING-BOTTOM: 0px; COLOR: black; PADDING-TOP: 0px
+}
+TABLE.subLEFT_MENU {
+	BORDER-RIGHT: black 0px solid; BORDER-TOP: black 0px solid; MARGIN-BOTTOM: 17px; BORDER-LEFT: black 0px solid; WIDTH: 100%; BORDER-BOTTOM: black 0px solid; BACKGROUND-COLOR: transparent; TEXT-ALIGN: left
+}
+TABLE.subLEFT_MENU TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 8pt; PADDING-BOTTOM: 2px; COLOR: black; PADDING-TOP: 2px; BACKGROUND-COLOR: transparent
+}
+DIV.spaceLEFT_MENU {
+	MARGIN-TOP: 17px
+}

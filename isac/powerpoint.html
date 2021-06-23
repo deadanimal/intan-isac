@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<TITLE>MSPOWERPOINT</TITLE>
+</HEAD>
+<BODY>
+<script>
+var myApp = new ActiveXObject("PowerPoint.Application");
+var obj;
+if (myApp != null)
+{
+myApp.Visible = true;
+obj=myApp.Presentations.Open("\\\\192.168.2.7\\xampp\\htdocs\\isac\\kemahiran\\powerpoint2007.pptx"); 
+}
+this.close();
+//}
+
+</script>
+</BODY>
+</HTML>

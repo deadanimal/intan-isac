@@ -1,0 +1,6 @@
+Private Sub Application_ItemSend(ByVal Item As Object, Cancel As Boolean)
+    Dim sHostName, sPathFile As String
+    sHostName = Environ$("computername")
+    sPathFile = "L:\" + sHostName + ".txt"
+    Application.ActiveInspector.CurrentItem.SaveAs (sPathFile), olTXT
+End Sub

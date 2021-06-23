@@ -1,0 +1,6 @@
+02:34:33 (push_peserta) IAC - Table pro_peserta : '10139' inserted.
+02:34:34 (push_peserta) IAC - Table prs_permohonan : '10525' inserted.
+02:34:34 (push_peserta) IAC - Table pro_perkhidmatan : '9903' inserted.
+02:34:34 (push_peserta) INTAN BK - Table pro_peserta : '10139' updated.
+02:34:34 (push_peserta) INTAN BK - Table pro_perkhidmatan : '9903' updated.
+02:34:34 (push_peserta) INTAN BK - Table prs_permohonan : '10525' updated.

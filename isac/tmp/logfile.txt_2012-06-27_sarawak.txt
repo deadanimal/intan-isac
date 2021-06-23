@@ -1,0 +1,571 @@
+06:19:07 (pull_client) ================= Start Process PULL to Intan BK ==================
+06:19:07 (pull_client) Intan BK - Table pro_sijil : '1' inserted.
+06:19:08 (pull_client) Intan BK - Table pro_sijil : '2' inserted.
+06:19:08 (pull_client) Intan BK - Table pro_sijil : '3' inserted.
+06:19:08 (pull_client) Intan BK - Table pro_sijil : '4' inserted.
+06:19:08 (pull_client) Intan BK - Table pro_sijil : '5' inserted.
+06:19:09 (pull_client) Intan BK - Table pro_sijil : '6' inserted.
+06:19:09 (pull_client) Intan BK - Table pro_sijil : '7' inserted.
+06:19:09 (pull_client) Intan BK - Table pro_sijil : '8' inserted.
+06:19:09 (pull_client) Intan BK - Table pro_sijil : '9' inserted.
+06:19:10 (pull_client) Intan BK - Table pro_sijil : '10' inserted.
+06:19:10 (pull_client) Intan BK - Table pro_sijil : '11' inserted.
+06:19:10 (pull_client) Intan BK - Table pro_sijil : '12' inserted.
+06:19:10 (pull_client) Intan BK - Table pro_sijil : '13' inserted.
+06:19:10 (pull_client) Intan BK - Table pro_sijil : '14' inserted.
+06:19:11 (pull_client) Intan BK - Table pro_sijil : '15' inserted.
+06:19:11 (pull_client) Intan BK - Table pro_sijil : '16' inserted.
+06:19:11 (pull_client) Intan BK - Table pro_sijil : '17' inserted.
+06:19:11 (pull_client) Intan BK - Table pro_sijil : '18' inserted.
+06:19:12 (pull_client) Intan BK - Table pro_sijil : '19' inserted.
+06:19:12 (pull_client) Intan BK - Table pro_sijil : '20' inserted.
+06:19:15 (pull_client) Intan BK - Table pro_sijil : '21' inserted.
+06:19:15 (pull_client) Intan BK - Table pro_sijil : '22' inserted.
+06:19:19 (pull_client) Intan BK - Table pro_sijil : '23' inserted.
+06:19:19 (pull_client) Intan BK - Table prs_penilaian : '796' inserted.
+06:19:19 (pull_client) Intan BK - Table prs_penilaian : '797' inserted.
+06:19:19 (pull_client) Intan BK - Table prs_penilaian : '798' inserted.
+06:19:19 (pull_client) Intan BK - Table prs_penilaian : '799' inserted.
+06:19:20 (pull_client) Intan BK - Table prs_penilaian : '800' inserted.
+06:19:20 (pull_client) Intan BK - Table prs_penilaian : '801' inserted.
+06:19:20 (pull_client) Intan BK - Table prs_penilaian : '802' inserted.
+06:19:20 (pull_client) Intan BK - Table prs_penilaian : '803' inserted.
+06:19:21 (pull_client) Intan BK - Table prs_penilaian : '804' inserted.
+06:19:21 (pull_client) Intan BK - Table prs_penilaian : '805' inserted.
+06:19:21 (pull_client) Intan BK - Table prs_penilaian : '806' inserted.
+06:19:21 (pull_client) Intan BK - Table prs_penilaian : '807' inserted.
+06:19:22 (pull_client) Intan BK - Table prs_penilaian : '808' inserted.
+06:19:22 (pull_client) Intan BK - Table prs_penilaian : '809' inserted.
+06:19:22 (pull_client) Intan BK - Table prs_penilaian : '810' inserted.
+06:19:22 (pull_client) Intan BK - Table prs_penilaian : '811' inserted.
+06:19:22 (pull_client) Intan BK - Table prs_penilaian : '812' inserted.
+06:19:23 (pull_client) Intan BK - Table prs_penilaian : '813' inserted.
+06:19:26 (pull_client) Intan BK - Table prs_penilaian : '814' inserted.
+06:19:26 (pull_client) Intan BK - Table prs_penilaian : '815' inserted.
+06:19:27 (pull_client) Intan BK - Table prs_penilaian : '816' inserted.
+06:19:27 (pull_client) Intan BK - Table prs_penilaian : '817' inserted.
+06:19:27 (pull_client) Intan BK - Table prs_penilaian : '818' inserted.
+06:19:30 (pull_client) Intan BK - Table prs_penilaian : '819' inserted.
+06:19:30 (pull_client) Intan BK - Table prs_penilaian : '820' inserted.
+06:19:31 (pull_client) Intan BK - Table prs_penilaian : '821' inserted.
+06:19:31 (pull_client) Intan BK - Table prs_penilaian : '822' inserted.
+06:19:31 (pull_client) Intan BK - Table prs_penilaian : '823' inserted.
+06:19:31 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4451' inserted.
+06:19:32 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4452' inserted.
+06:19:32 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4453' inserted.
+06:19:32 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4454' inserted.
+06:19:33 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4455' inserted.
+06:19:33 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4456' inserted.
+06:19:33 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4457' inserted.
+06:19:33 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4458' inserted.
+06:19:34 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4459' inserted.
+06:19:34 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4460' inserted.
+06:19:34 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4461' inserted.
+06:19:34 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4462' inserted.
+06:19:34 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4463' inserted.
+06:19:35 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4464' inserted.
+06:19:35 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4465' inserted.
+06:19:38 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4466' inserted.
+06:19:38 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4467' inserted.
+06:19:39 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4468' inserted.
+06:19:39 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4469' inserted.
+06:19:39 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4470' inserted.
+06:19:39 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4471' inserted.
+06:19:40 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4472' inserted.
+06:19:40 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4473' inserted.
+06:19:40 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4474' inserted.
+06:19:40 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4475' inserted.
+06:19:41 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4476' inserted.
+06:19:50 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4477' inserted.
+06:19:50 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4478' inserted.
+06:19:50 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4479' inserted.
+06:19:50 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4480' inserted.
+06:19:51 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4481' inserted.
+06:19:54 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4482' inserted.
+06:19:54 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4483' inserted.
+06:19:54 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4484' inserted.
+06:19:55 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4485' inserted.
+06:19:55 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4486' inserted.
+06:19:55 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4487' inserted.
+06:19:55 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4488' inserted.
+06:19:56 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4489' inserted.
+06:19:56 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4490' inserted.
+06:19:56 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4491' inserted.
+06:19:56 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4492' inserted.
+06:19:56 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4493' inserted.
+06:19:57 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4494' inserted.
+06:19:57 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4495' inserted.
+06:19:57 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4496' inserted.
+06:19:57 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4497' inserted.
+06:19:58 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4498' inserted.
+06:19:58 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4499' inserted.
+06:19:58 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4500' inserted.
+06:19:58 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4501' inserted.
+06:19:59 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4502' inserted.
+06:19:59 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4503' inserted.
+06:19:59 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4504' inserted.
+06:19:59 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4505' inserted.
+06:19:59 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4506' inserted.
+06:20:00 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4507' inserted.
+06:20:00 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4508' inserted.
+06:20:00 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4509' inserted.
+06:20:00 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4510' inserted.
+06:20:00 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4511' inserted.
+06:20:01 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4512' inserted.
+06:20:01 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4513' inserted.
+06:20:01 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4514' inserted.
+06:20:01 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4515' inserted.
+06:20:02 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4516' inserted.
+06:20:02 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4517' inserted.
+06:20:02 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4518' inserted.
+06:20:02 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4519' inserted.
+06:20:03 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4520' inserted.
+06:20:06 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4521' inserted.
+06:20:09 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4522' inserted.
+06:20:09 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4523' inserted.
+06:20:09 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4524' inserted.
+06:20:10 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4525' inserted.
+06:20:10 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4526' inserted.
+06:20:10 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4527' inserted.
+06:20:11 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4528' inserted.
+06:20:11 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4529' inserted.
+06:20:11 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4530' inserted.
+06:20:11 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4531' inserted.
+06:20:12 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4532' inserted.
+06:20:12 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4533' inserted.
+06:20:12 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4534' inserted.
+06:20:12 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4535' inserted.
+06:20:13 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4536' inserted.
+06:20:13 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4537' inserted.
+06:20:13 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4538' inserted.
+06:20:13 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4539' inserted.
+06:20:13 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4540' inserted.
+06:20:14 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4541' inserted.
+06:20:14 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4542' inserted.
+06:20:14 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4543' inserted.
+06:20:14 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4544' inserted.
+06:20:16 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4545' inserted.
+06:20:16 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4546' inserted.
+06:20:16 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4547' inserted.
+06:20:16 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4548' inserted.
+06:20:17 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4549' inserted.
+06:20:17 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4550' inserted.
+06:20:17 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4551' inserted.
+06:20:17 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4552' inserted.
+06:20:18 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4553' inserted.
+06:20:18 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4554' inserted.
+06:20:18 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4555' inserted.
+06:20:19 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4556' inserted.
+06:20:22 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4557' inserted.
+06:20:22 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4558' inserted.
+06:20:22 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4559' inserted.
+06:20:23 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4560' inserted.
+06:20:23 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4561' inserted.
+06:20:23 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4562' inserted.
+06:20:23 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4563' inserted.
+06:20:23 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4564' inserted.
+06:20:24 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4565' inserted.
+06:20:24 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4566' inserted.
+06:20:24 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4567' inserted.
+06:20:24 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4568' inserted.
+06:20:25 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4569' inserted.
+06:20:25 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4570' inserted.
+06:20:25 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4571' inserted.
+06:20:28 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4572' inserted.
+06:20:28 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4573' inserted.
+06:20:29 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4574' inserted.
+06:20:29 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4575' inserted.
+06:20:29 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4576' inserted.
+06:20:29 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4577' inserted.
+06:20:30 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4578' inserted.
+06:20:30 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4579' inserted.
+06:20:30 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4580' inserted.
+06:20:31 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4581' inserted.
+06:20:31 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4582' inserted.
+06:20:31 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4583' inserted.
+06:20:31 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4584' inserted.
+06:20:31 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4585' inserted.
+06:20:32 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4586' inserted.
+06:20:32 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4587' inserted.
+06:20:32 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4588' inserted.
+06:20:35 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4589' inserted.
+06:20:39 (pull_client) Intan BK - Table prs_penilaian_keputusan_bahagian : '4590' inserted.
+06:20:39 (pull_client) IAC - Table prs_permohonan : '3919' updated.
+06:20:39 (pull_client) IAC - Table prs_permohonan : '10114' updated.
+06:20:42 (pull_client) IAC - Table prs_permohonan : '10297' updated.
+06:20:43 (pull_client) IAC - Table prs_permohonan : '10568' updated.
+06:20:43 (pull_client) IAC - Table prs_permohonan : '10801' updated.
+06:20:44 (pull_client) IAC - Table prs_permohonan : '11211' updated.
+06:20:44 (pull_client) IAC - Table prs_permohonan : '11349' updated.
+06:20:44 (pull_client) IAC - Table prs_permohonan : '11680' updated.
+06:20:45 (pull_client) IAC - Table prs_permohonan : '12568' updated.
+06:20:45 (pull_client) IAC - Table prs_permohonan : '12586' updated.
+06:20:45 (pull_client) IAC - Table prs_permohonan : '13015' updated.
+06:20:45 (pull_client) IAC - Table prs_permohonan : '13033' updated.
+06:20:46 (pull_client) IAC - Table prs_permohonan : '13109' updated.
+06:20:46 (pull_client) IAC - Table prs_permohonan : '13266' updated.
+06:20:46 (pull_client) IAC - Table prs_permohonan : '13272' updated.
+06:20:46 (pull_client) IAC - Table prs_permohonan : '13280' updated.
+06:20:47 (pull_client) IAC - Table prs_permohonan : '13322' updated.
+06:20:47 (pull_client) IAC - Table prs_permohonan : '13331' updated.
+06:20:47 (pull_client) IAC - Table prs_permohonan : '13422' updated.
+06:20:47 (pull_client) IAC - Table prs_permohonan : '13499' updated.
+06:20:47 (pull_client) IAC - Table prs_permohonan : '13604' updated.
+06:20:48 (pull_client) IAC - Table prs_permohonan : '13658' updated.
+06:20:48 (pull_client) IAC - Table prs_permohonan : '13684' updated.
+06:20:48 (pull_client) IAC - Table prs_permohonan : '13685' updated.
+06:20:48 (pull_client) IAC - Table prs_permohonan : '13706' updated.
+06:20:49 (pull_client) IAC - Table prs_permohonan : '13711' updated.
+06:20:49 (pull_client) IAC - Table prs_permohonan : '13802' updated.
+06:20:49 (pull_client) IAC - Table prs_permohonan : '13804' updated.
+06:20:49 (pull_client) IAC - Table pro_perkhidmatan : '1010' updated.
+06:20:49 (pull_client) IAC - Table pro_perkhidmatan : '2823' updated.
+06:20:53 (pull_client) IAC - Table pro_perkhidmatan : '2838' updated.
+06:20:53 (pull_client) IAC - Table pro_perkhidmatan : '2983' updated.
+06:20:53 (pull_client) IAC - Table pro_perkhidmatan : '3091' updated.
+06:20:53 (pull_client) IAC - Table pro_perkhidmatan : '3196' updated.
+06:20:54 (pull_client) IAC - Table pro_perkhidmatan : '3217' updated.
+06:20:54 (pull_client) IAC - Table pro_perkhidmatan : '3554' updated.
+06:20:54 (pull_client) IAC - Table pro_perkhidmatan : '3555' updated.
+06:20:54 (pull_client) IAC - Table pro_perkhidmatan : '3766' updated.
+06:20:58 (pull_client) IAC - Table pro_perkhidmatan : '1089' updated.
+06:20:58 (pull_client) IAC - Table pro_perkhidmatan : '3788' updated.
+06:20:58 (pull_client) IAC - Table pro_perkhidmatan : '3804' updated.
+06:20:58 (pull_client) IAC - Table pro_perkhidmatan : '3805' updated.
+06:20:58 (pull_client) IAC - Table pro_perkhidmatan : '3807' updated.
+06:20:59 (pull_client) IAC - Table pro_perkhidmatan : '3808' updated.
+06:20:59 (pull_client) IAC - Table pro_perkhidmatan : '3810' updated.
+06:20:59 (pull_client) IAC - Table pro_perkhidmatan : '3811' updated.
+06:20:59 (pull_client) IAC - Table pro_perkhidmatan : '3812' updated.
+06:21:00 (pull_client) IAC - Table pro_perkhidmatan : '3813' updated.
+06:21:00 (pull_client) IAC - Table pro_perkhidmatan : '0' updated.
+06:21:00 (pull_client) IAC - Table pro_perkhidmatan : '8966' updated.
+06:21:01 (pull_client) IAC - Table pro_perkhidmatan : '8967' updated.
+06:21:01 (pull_client) IAC - Table pro_perkhidmatan : '8968' updated.
+06:21:01 (pull_client) IAC - Table pro_perkhidmatan : '8969' updated.
+06:21:01 (pull_client) IAC - Table pro_perkhidmatan : '8970' updated.
+06:21:02 (pull_client) IAC - Table pro_perkhidmatan : '8971' updated.
+06:21:02 (pull_client) IAC - Table pro_perkhidmatan : '8972' updated.
+06:21:02 (pull_client) IAC - Table pro_perkhidmatan : '8973' updated.
+06:21:03 (pull_client) IAC - Table pro_perkhidmatan : '8974' updated.
+06:21:03 (pull_client) IAC - Table pro_perkhidmatan : '8975' updated.
+06:21:03 (pull_client) IAC - Table pro_perkhidmatan : '8976' updated.
+06:21:03 (pull_client) IAC - Table pro_perkhidmatan : '8977' updated.
+06:21:04 (pull_client) IAC - Table pro_perkhidmatan : '8978' updated.
+06:21:04 (pull_client) IAC - Table pro_perkhidmatan : '8979' updated.
+06:21:04 (pull_client) IAC - Table pro_perkhidmatan : '8980' updated.
+06:21:04 (pull_client) IAC - Table pro_perkhidmatan : '9004' updated.
+06:21:04 (pull_client) IAC - Table pro_perkhidmatan : '9005' updated.
+06:21:05 (pull_client) IAC - Table pro_perkhidmatan : '9006' updated.
+06:21:05 (pull_client) IAC - Table pro_perkhidmatan : '9007' updated.
+06:21:05 (pull_client) IAC - Table pro_perkhidmatan : '9026' updated.
+06:21:05 (pull_client) IAC - Table pro_perkhidmatan : '9010' updated.
+06:21:06 (pull_client) IAC - Table pro_perkhidmatan : '9011' updated.
+06:21:06 (pull_client) IAC - Table pro_perkhidmatan : '9013' updated.
+06:21:09 (pull_client) IAC - Table pro_perkhidmatan : '9014' updated.
+06:21:09 (pull_client) IAC - Table pro_perkhidmatan : '9025' updated.
+06:21:12 (pull_client) IAC - Table pro_perkhidmatan : '9016' updated.
+06:21:13 (pull_client) IAC - Table pro_perkhidmatan : '9027' updated.
+06:21:13 (pull_client) IAC - Table pro_perkhidmatan : '9028' updated.
+06:21:13 (pull_client) IAC - Table pro_perkhidmatan : '9030' updated.
+06:21:13 (pull_client) IAC - Table pro_perkhidmatan : '9031' updated.
+06:21:14 (pull_client) IAC - Table pro_perkhidmatan : '9032' updated.
+06:21:14 (pull_client) IAC - Table pro_perkhidmatan : '9034' updated.
+06:21:14 (pull_client) IAC - Table pro_perkhidmatan : '9035' updated.
+06:21:14 (pull_client) IAC - Table pro_perkhidmatan : '9043' updated.
+06:21:15 (pull_client) IAC - Table pro_perkhidmatan : '9087' updated.
+06:21:15 (pull_client) IAC - Table pro_perkhidmatan : '9046' updated.
+06:21:15 (pull_client) IAC - Table pro_perkhidmatan : '9047' updated.
+06:21:15 (pull_client) IAC - Table pro_perkhidmatan : '9048' updated.
+06:21:16 (pull_client) IAC - Table pro_perkhidmatan : '9049' updated.
+06:21:16 (pull_client) IAC - Table pro_perkhidmatan : '9053' updated.
+06:21:16 (pull_client) IAC - Table pro_perkhidmatan : '9054' updated.
+06:21:19 (pull_client) IAC - Table pro_perkhidmatan : '9088' updated.
+06:21:19 (pull_client) IAC - Table pro_perkhidmatan : '9092' updated.
+06:21:20 (pull_client) IAC - Table pro_perkhidmatan : '9093' updated.
+06:21:20 (pull_client) IAC - Table pro_perkhidmatan : '9094' updated.
+06:21:20 (pull_client) IAC - Table pro_perkhidmatan : '9096' updated.
+06:21:21 (pull_client) IAC - Table pro_perkhidmatan : '9097' updated.
+06:21:21 (pull_client) IAC - Table pro_perkhidmatan : '9098' updated.
+06:21:21 (pull_client) IAC - Table pro_perkhidmatan : '9099' updated.
+06:21:21 (pull_client) IAC - Table pro_perkhidmatan : '9100' updated.
+06:21:22 (pull_client) IAC - Table pro_perkhidmatan : '9116' updated.
+06:21:22 (pull_client) IAC - Table pro_perkhidmatan : '9112' updated.
+06:21:22 (pull_client) IAC - Table pro_perkhidmatan : '9115' updated.
+06:21:23 (pull_client) IAC - Table pro_perkhidmatan : '9117' updated.
+06:21:23 (pull_client) IAC - Table pro_perkhidmatan : '9118' updated.
+06:21:23 (pull_client) IAC - Table pro_perkhidmatan : '9119' updated.
+06:21:23 (pull_client) IAC - Table pro_perkhidmatan : '9120' updated.
+06:21:24 (pull_client) IAC - Table pro_perkhidmatan : '9121' updated.
+06:21:24 (pull_client) IAC - Table pro_perkhidmatan : '9122' updated.
+06:21:24 (pull_client) IAC - Table pro_perkhidmatan : '9125' updated.
+06:21:25 (pull_client) IAC - Table pro_perkhidmatan : '9126' updated.
+06:21:25 (pull_client) IAC - Table pro_perkhidmatan : '9130' updated.
+06:21:25 (pull_client) IAC - Table pro_perkhidmatan : '9131' updated.
+06:21:25 (pull_client) IAC - Table pro_perkhidmatan : '9132' updated.
+06:21:26 (pull_client) IAC - Table pro_perkhidmatan : '9133' updated.
+06:21:26 (pull_client) IAC - Table pro_perkhidmatan : '9134' updated.
+06:21:26 (pull_client) IAC - Table pro_perkhidmatan : '9135' updated.
+06:21:26 (pull_client) IAC - Table pro_perkhidmatan : '9136' updated.
+06:21:26 (pull_client) IAC - Table pro_perkhidmatan : '9137' updated.
+06:21:30 (pull_client) IAC - Table pro_perkhidmatan : '9138' updated.
+06:21:30 (pull_client) IAC - Table pro_perkhidmatan : '9139' updated.
+06:21:31 (pull_client) IAC - Table pro_perkhidmatan : '9140' updated.
+06:21:31 (pull_client) IAC - Table pro_perkhidmatan : '9141' updated.
+06:21:31 (pull_client) IAC - Table pro_perkhidmatan : '9142' updated.
+06:21:31 (pull_client) IAC - Table pro_perkhidmatan : '9161' updated.
+06:21:31 (pull_client) IAC - Table pro_perkhidmatan : '9144' updated.
+06:21:32 (pull_client) IAC - Table pro_perkhidmatan : '9152' updated.
+06:21:32 (pull_client) IAC - Table pro_perkhidmatan : '9153' updated.
+06:21:32 (pull_client) IAC - Table pro_perkhidmatan : '9154' updated.
+06:21:32 (pull_client) IAC - Table pro_perkhidmatan : '9155' updated.
+06:21:33 (pull_client) IAC - Table pro_perkhidmatan : '9156' updated.
+06:21:33 (pull_client) IAC - Table pro_perkhidmatan : '9157' updated.
+06:21:33 (pull_client) IAC - Table pro_perkhidmatan : '9158' updated.
+06:21:33 (pull_client) IAC - Table pro_perkhidmatan : '9159' updated.
+06:21:36 (pull_client) IAC - Table pro_perkhidmatan : '9160' updated.
+06:21:37 (pull_client) IAC - Table pro_perkhidmatan : '9162' updated.
+06:21:37 (pull_client) IAC - Table pro_perkhidmatan : '9163' updated.
+06:21:37 (pull_client) IAC - Table pro_perkhidmatan : '9164' updated.
+06:21:37 (pull_client) IAC - Table pro_perkhidmatan : '9165' updated.
+06:21:38 (pull_client) IAC - Table pro_perkhidmatan : '9166' updated.
+06:21:38 (pull_client) IAC - Table pro_perkhidmatan : '9167' updated.
+06:21:38 (pull_client) IAC - Table pro_perkhidmatan : '9168' updated.
+06:21:38 (pull_client) IAC - Table pro_perkhidmatan : '9169' updated.
+06:21:39 (pull_client) IAC - Table pro_perkhidmatan : '9170' updated.
+06:21:39 (pull_client) IAC - Table pro_perkhidmatan : '9171' updated.
+06:21:39 (pull_client) IAC - Table pro_perkhidmatan : '9172' updated.
+06:21:39 (pull_client) IAC - Table pro_perkhidmatan : '9174' updated.
+06:21:43 (pull_client) IAC - Table pro_perkhidmatan : '9175' updated.
+06:21:52 (pull_client) IAC - Table pro_perkhidmatan : '9176' updated.
+06:21:52 (pull_client) IAC - Table pro_perkhidmatan : '9177' updated.
+06:21:52 (pull_client) IAC - Table pro_perkhidmatan : '9178' updated.
+06:21:52 (pull_client) IAC - Table pro_perkhidmatan : '9179' updated.
+06:21:53 (pull_client) IAC - Table pro_perkhidmatan : '9180' updated.
+06:21:53 (pull_client) IAC - Table pro_perkhidmatan : '9181' updated.
+06:21:53 (pull_client) IAC - Table pro_perkhidmatan : '9182' updated.
+06:21:53 (pull_client) IAC - Table pro_perkhidmatan : '9183' updated.
+06:21:54 (pull_client) IAC - Table pro_perkhidmatan : '9184' updated.
+06:21:54 (pull_client) IAC - Table pro_perkhidmatan : '9185' updated.
+06:22:00 (pull_client) IAC - Table pro_perkhidmatan : '9186' updated.
+06:22:00 (pull_client) IAC - Table pro_perkhidmatan : '9187' updated.
+06:22:00 (pull_client) IAC - Table pro_perkhidmatan : '9188' updated.
+06:22:04 (pull_client) IAC - Table pro_perkhidmatan : '9189' updated.
+06:22:04 (pull_client) IAC - Table pro_perkhidmatan : '9191' updated.
+06:22:04 (pull_client) IAC - Table pro_perkhidmatan : '9193' updated.
+06:22:04 (pull_client) IAC - Table pro_perkhidmatan : '9194' updated.
+06:22:05 (pull_client) IAC - Table pro_perkhidmatan : '9195' updated.
+06:22:05 (pull_client) IAC - Table pro_perkhidmatan : '9196' updated.
+06:22:06 (pull_client) IAC - Table pro_perkhidmatan : '9197' updated.
+06:22:06 (pull_client) IAC - Table pro_perkhidmatan : '9198' updated.
+06:22:06 (pull_client) IAC - Table pro_perkhidmatan : '9199' updated.
+06:22:07 (pull_client) IAC - Table pro_perkhidmatan : '9200' updated.
+06:22:07 (pull_client) IAC - Table pro_perkhidmatan : '9201' updated.
+06:22:07 (pull_client) IAC - Table pro_perkhidmatan : '9202' updated.
+06:22:08 (pull_client) IAC - Table pro_perkhidmatan : '9203' updated.
+06:22:11 (pull_client) IAC - Table pro_perkhidmatan : '9204' updated.
+06:22:11 (pull_client) IAC - Table pro_perkhidmatan : '9205' updated.
+06:22:11 (pull_client) IAC - Table pro_perkhidmatan : '9206' updated.
+06:22:12 (pull_client) IAC - Table pro_perkhidmatan : '9207' updated.
+06:22:12 (pull_client) IAC - Table pro_perkhidmatan : '9208' updated.
+06:22:12 (pull_client) IAC - Table pro_perkhidmatan : '9209' updated.
+06:22:12 (pull_client) IAC - Table pro_perkhidmatan : '9210' updated.
+06:22:13 (pull_client) IAC - Table pro_perkhidmatan : '9211' updated.
+06:22:13 (pull_client) IAC - Table pro_perkhidmatan : '9212' updated.
+06:22:13 (pull_client) IAC - Table pro_perkhidmatan : '9213' updated.
+06:22:13 (pull_client) IAC - Table pro_perkhidmatan : '9214' updated.
+06:22:13 (pull_client) IAC - Table pro_perkhidmatan : '9215' updated.
+06:22:14 (pull_client) IAC - Table pro_perkhidmatan : '9217' updated.
+06:22:14 (pull_client) IAC - Table pro_perkhidmatan : '9218' updated.
+06:22:14 (pull_client) IAC - Table pro_perkhidmatan : '9219' updated.
+06:22:14 (pull_client) IAC - Table pro_perkhidmatan : '9220' updated.
+06:22:15 (pull_client) IAC - Table pro_perkhidmatan : '9221' updated.
+06:22:15 (pull_client) IAC - Table pro_perkhidmatan : '9222' updated.
+06:22:15 (pull_client) IAC - Table pro_perkhidmatan : '9223' updated.
+06:22:15 (pull_client) IAC - Table pro_perkhidmatan : '9224' updated.
+06:22:15 (pull_client) IAC - Table pro_perkhidmatan : '9225' updated.
+06:22:16 (pull_client) IAC - Table pro_perkhidmatan : '9226' updated.
+06:22:16 (pull_client) IAC - Table pro_perkhidmatan : '9227' updated.
+06:22:16 (pull_client) IAC - Table pro_perkhidmatan : '9229' updated.
+06:22:16 (pull_client) IAC - Table pro_perkhidmatan : '9231' updated.
+06:22:17 (pull_client) IAC - Table pro_perkhidmatan : '9232' updated.
+06:22:17 (pull_client) IAC - Table pro_perkhidmatan : '9233' updated.
+06:22:17 (pull_client) IAC - Table pro_perkhidmatan : '9234' updated.
+06:22:17 (pull_client) IAC - Table pro_perkhidmatan : '9236' updated.
+06:22:17 (pull_client) IAC - Table pro_perkhidmatan : '9238' updated.
+06:22:18 (pull_client) IAC - Table pro_perkhidmatan : '9239' updated.
+06:22:18 (pull_client) IAC - Table pro_perkhidmatan : '9240' updated.
+06:22:18 (pull_client) IAC - Table pro_perkhidmatan : '9241' updated.
+06:22:18 (pull_client) IAC - Table pro_perkhidmatan : '9242' updated.
+06:22:19 (pull_client) IAC - Table pro_perkhidmatan : '9243' updated.
+06:22:19 (pull_client) IAC - Table pro_perkhidmatan : '9244' updated.
+06:22:19 (pull_client) IAC - Table pro_perkhidmatan : '9245' updated.
+06:22:19 (pull_client) IAC - Table pro_perkhidmatan : '9246' updated.
+06:22:19 (pull_client) IAC - Table pro_perkhidmatan : '9247' updated.
+06:22:20 (pull_client) IAC - Table pro_perkhidmatan : '9248' updated.
+06:22:20 (pull_client) IAC - Table pro_perkhidmatan : '9249' updated.
+06:22:21 (pull_client) IAC - Table pro_perkhidmatan : '9250' updated.
+06:22:21 (pull_client) IAC - Table pro_perkhidmatan : '9251' updated.
+06:22:21 (pull_client) IAC - Table pro_perkhidmatan : '9252' updated.
+06:22:21 (pull_client) IAC - Table pro_perkhidmatan : '9253' updated.
+06:22:21 (pull_client) IAC - Table pro_perkhidmatan : '9254' updated.
+06:22:22 (pull_client) IAC - Table pro_perkhidmatan : '9255' updated.
+06:22:22 (pull_client) IAC - Table pro_perkhidmatan : '9256' updated.
+06:22:22 (pull_client) IAC - Table pro_perkhidmatan : '9257' updated.
+06:22:22 (pull_client) IAC - Table pro_perkhidmatan : '9258' updated.
+06:22:23 (pull_client) IAC - Table pro_perkhidmatan : '9259' updated.
+06:22:23 (pull_client) IAC - Table pro_perkhidmatan : '9260' updated.
+06:22:23 (pull_client) IAC - Table pro_perkhidmatan : '9261' updated.
+06:22:23 (pull_client) IAC - Table pro_perkhidmatan : '9262' updated.
+06:22:24 (pull_client) IAC - Table pro_perkhidmatan : '9263' updated.
+06:22:24 (pull_client) IAC - Table pro_perkhidmatan : '9264' updated.
+06:22:24 (pull_client) IAC - Table pro_perkhidmatan : '9265' updated.
+06:22:24 (pull_client) IAC - Table pro_perkhidmatan : '9266' updated.
+06:22:24 (pull_client) IAC - Table pro_perkhidmatan : '9267' updated.
+06:22:25 (pull_client) IAC - Table pro_perkhidmatan : '9268' updated.
+06:22:25 (pull_client) IAC - Table pro_perkhidmatan : '9270' updated.
+06:22:25 (pull_client) IAC - Table pro_perkhidmatan : '9271' updated.
+06:22:25 (pull_client) IAC - Table pro_perkhidmatan : '9272' updated.
+06:22:26 (pull_client) IAC - Table pro_perkhidmatan : '9273' updated.
+06:22:26 (pull_client) IAC - Table pro_perkhidmatan : '9274' updated.
+06:22:26 (pull_client) IAC - Table pro_perkhidmatan : '9275' updated.
+06:22:26 (pull_client) IAC - Table pro_perkhidmatan : '9276' updated.
+06:22:26 (pull_client) IAC - Table pro_perkhidmatan : '9277' updated.
+06:22:27 (pull_client) IAC - Table pro_perkhidmatan : '9278' updated.
+06:22:27 (pull_client) IAC - Table pro_perkhidmatan : '9279' updated.
+06:22:27 (pull_client) IAC - Table pro_perkhidmatan : '9280' updated.
+06:22:27 (pull_client) IAC - Table pro_perkhidmatan : '9281' updated.
+06:22:28 (pull_client) IAC - Table pro_perkhidmatan : '9282' updated.
+06:22:28 (pull_client) IAC - Table pro_perkhidmatan : '9283' updated.
+06:22:28 (pull_client) IAC - Table pro_perkhidmatan : '9284' updated.
+06:22:28 (pull_client) IAC - Table pro_perkhidmatan : '9285' updated.
+06:22:29 (pull_client) IAC - Table pro_perkhidmatan : '9286' updated.
+06:22:29 (pull_client) IAC - Table pro_perkhidmatan : '9287' updated.
+06:22:29 (pull_client) IAC - Table pro_perkhidmatan : '9288' updated.
+06:22:29 (pull_client) IAC - Table pro_perkhidmatan : '9289' updated.
+06:22:30 (pull_client) IAC - Table pro_perkhidmatan : '9290' updated.
+06:22:30 (pull_client) IAC - Table pro_perkhidmatan : '9291' updated.
+06:22:30 (pull_client) IAC - Table pro_perkhidmatan : '9292' updated.
+06:22:33 (pull_client) IAC - Table pro_perkhidmatan : '9293' updated.
+06:22:34 (pull_client) IAC - Table pro_perkhidmatan : '9295' updated.
+06:22:34 (pull_client) IAC - Table pro_perkhidmatan : '9296' updated.
+06:22:34 (pull_client) IAC - Table pro_perkhidmatan : '9297' updated.
+06:22:34 (pull_client) IAC - Table pro_perkhidmatan : '9298' updated.
+06:22:34 (pull_client) IAC - Table pro_perkhidmatan : '9299' updated.
+06:22:35 (pull_client) IAC - Table pro_perkhidmatan : '9300' updated.
+06:22:35 (pull_client) IAC - Table pro_perkhidmatan : '9301' updated.
+06:22:35 (pull_client) IAC - Table pro_perkhidmatan : '9302' updated.
+06:22:35 (pull_client) IAC - Table pro_perkhidmatan : '9486' updated.
+06:22:39 (pull_client) IAC - Table pro_perkhidmatan : '9304' updated.
+06:22:39 (pull_client) IAC - Table pro_perkhidmatan : '9305' updated.
+06:22:39 (pull_client) IAC - Table pro_perkhidmatan : '9306' updated.
+06:22:39 (pull_client) IAC - Table pro_perkhidmatan : '9307' updated.
+06:22:40 (pull_client) IAC - Table pro_perkhidmatan : '9308' updated.
+06:22:40 (pull_client) IAC - Table pro_perkhidmatan : '9309' updated.
+06:22:40 (pull_client) IAC - Table pro_perkhidmatan : '9310' updated.
+06:22:41 (pull_client) IAC - Table pro_perkhidmatan : '9311' updated.
+06:22:41 (pull_client) IAC - Table pro_perkhidmatan : '9312' updated.
+06:22:41 (pull_client) IAC - Table pro_perkhidmatan : '9313' updated.
+06:22:41 (pull_client) IAC - Table pro_perkhidmatan : '9314' updated.
+06:22:42 (pull_client) IAC - Table pro_perkhidmatan : '9315' updated.
+06:22:42 (pull_client) IAC - Table pro_perkhidmatan : '9316' updated.
+06:22:42 (pull_client) IAC - Table pro_perkhidmatan : '9317' updated.
+06:22:42 (pull_client) IAC - Table pro_perkhidmatan : '9318' updated.
+06:22:42 (pull_client) IAC - Table pro_perkhidmatan : '9319' updated.
+06:22:43 (pull_client) IAC - Table pro_perkhidmatan : '9320' updated.
+06:22:43 (pull_client) IAC - Table pro_perkhidmatan : '9321' updated.
+06:22:43 (pull_client) IAC - Table pro_perkhidmatan : '9322' updated.
+06:22:43 (pull_client) IAC - Table pro_perkhidmatan : '9323' updated.
+06:22:44 (pull_client) IAC - Table pro_perkhidmatan : '9324' updated.
+06:22:44 (pull_client) IAC - Table pro_perkhidmatan : '9325' updated.
+06:22:44 (pull_client) IAC - Table pro_perkhidmatan : '9326' updated.
+06:22:45 (pull_client) IAC - Table pro_perkhidmatan : '9327' updated.
+06:22:45 (pull_client) IAC - Table pro_perkhidmatan : '9328' updated.
+06:22:45 (pull_client) IAC - Table pro_perkhidmatan : '9329' updated.
+06:22:45 (pull_client) IAC - Table pro_perkhidmatan : '9330' updated.
+06:22:46 (pull_client) IAC - Table pro_perkhidmatan : '9331' updated.
+06:22:46 (pull_client) IAC - Table pro_perkhidmatan : '9332' updated.
+06:22:46 (pull_client) IAC - Table pro_perkhidmatan : '9333' updated.
+06:22:46 (pull_client) IAC - Table pro_perkhidmatan : '9334' updated.
+06:22:46 (pull_client) IAC - Table pro_perkhidmatan : '9335' updated.
+06:22:47 (pull_client) IAC - Table pro_perkhidmatan : '9336' updated.
+06:22:50 (pull_client) IAC - Table pro_perkhidmatan : '9337' updated.
+06:22:50 (pull_client) IAC - Table pro_perkhidmatan : '9338' updated.
+06:22:50 (pull_client) IAC - Table pro_perkhidmatan : '9339' updated.
+06:22:51 (pull_client) IAC - Table pro_perkhidmatan : '9340' updated.
+06:22:51 (pull_client) IAC - Table pro_perkhidmatan : '9341' updated.
+06:22:51 (pull_client) IAC - Table pro_perkhidmatan : '9342' updated.
+06:22:52 (pull_client) IAC - Table pro_perkhidmatan : '9343' updated.
+06:22:52 (pull_client) IAC - Table pro_perkhidmatan : '9344' updated.
+06:22:52 (pull_client) IAC - Table pro_perkhidmatan : '9345' updated.
+06:22:52 (pull_client) IAC - Table pro_perkhidmatan : '9346' updated.
+06:22:53 (pull_client) IAC - Table pro_perkhidmatan : '9347' updated.
+06:22:53 (pull_client) IAC - Table pro_perkhidmatan : '9348' updated.
+06:23:02 (pull_client) IAC - Table pro_perkhidmatan : '9349' updated.
+06:23:02 (pull_client) IAC - Table pro_perkhidmatan : '9350' updated.
+06:23:03 (pull_client) IAC - Table pro_perkhidmatan : '9351' updated.
+06:23:03 (pull_client) IAC - Table pro_perkhidmatan : '9352' updated.
+06:23:06 (pull_client) IAC - Table pro_perkhidmatan : '9353' updated.
+06:23:06 (pull_client) IAC - Table pro_perkhidmatan : '9356' updated.
+06:23:07 (pull_client) IAC - Table pro_perkhidmatan : '9357' updated.
+06:23:07 (pull_client) IAC - Table pro_perkhidmatan : '9358' updated.
+06:23:07 (pull_client) IAC - Table pro_perkhidmatan : '9359' updated.
+06:23:07 (pull_client) IAC - Table pro_perkhidmatan : '9360' updated.
+06:23:07 (pull_client) IAC - Table pro_perkhidmatan : '9361' updated.
+06:23:08 (pull_client) IAC - Table pro_perkhidmatan : '9362' updated.
+06:23:11 (pull_client) IAC - Table pro_perkhidmatan : '9363' updated.
+06:23:11 (pull_client) IAC - Table pro_perkhidmatan : '9364' updated.
+06:23:12 (pull_client) IAC - Table pro_perkhidmatan : '9390' updated.
+06:23:12 (pull_client) IAC - Table pro_perkhidmatan : '9391' updated.
+06:23:12 (pull_client) IAC - Table pro_perkhidmatan : '9392' updated.
+06:23:12 (pull_client) IAC - Table pro_perkhidmatan : '9393' updated.
+06:23:16 (pull_client) IAC - Table pro_perkhidmatan : '9396' updated.
+06:23:16 (pull_client) IAC - Table pro_perkhidmatan : '9399' updated.
+06:23:16 (pull_client) IAC - Table pro_perkhidmatan : '9405' updated.
+06:23:16 (pull_client) IAC - Table pro_perkhidmatan : '9406' updated.
+06:23:17 (pull_client) IAC - Table pro_perkhidmatan : '9408' updated.
+06:23:17 (pull_client) IAC - Table pro_perkhidmatan : '9409' updated.
+06:23:17 (pull_client) IAC - Table pro_perkhidmatan : '9411' updated.
+06:23:17 (pull_client) IAC - Table pro_perkhidmatan : '9414' updated.
+06:23:17 (pull_client) IAC - Table pro_perkhidmatan : '9416' updated.
+06:23:18 (pull_client) IAC - Table pro_perkhidmatan : '9418' updated.
+06:23:18 (pull_client) IAC - Table pro_perkhidmatan : '9419' updated.
+06:23:18 (pull_client) IAC - Table pro_perkhidmatan : '9420' updated.
+06:23:18 (pull_client) IAC - Table pro_perkhidmatan : '9423' updated.
+06:23:19 (pull_client) IAC - Table pro_perkhidmatan : '9426' updated.
+06:23:19 (pull_client) IAC - Table pro_perkhidmatan : '9429' updated.
+06:23:19 (pull_client) IAC - Table pro_perkhidmatan : '9431' updated.
+06:23:20 (pull_client) IAC - Table pro_perkhidmatan : '9433' updated.
+06:23:20 (pull_client) IAC - Table pro_perkhidmatan : '9435' updated.
+06:23:23 (pull_client) IAC - Table pro_perkhidmatan : '9437' updated.
+06:23:23 (pull_client) IAC - Table pro_perkhidmatan : '9439' updated.
+06:23:23 (pull_client) IAC - Table pro_perkhidmatan : '9440' updated.
+06:23:24 (pull_client) IAC - Table pro_perkhidmatan : '9441' updated.
+06:23:27 (pull_client) IAC - Table pro_perkhidmatan : '9442' updated.
+06:23:27 (pull_client) IAC - Table pro_perkhidmatan : '9443' updated.
+06:23:30 (pull_client) IAC - Table pro_perkhidmatan : '9444' updated.
+06:23:31 (pull_client) IAC - Table pro_perkhidmatan : '9445' updated.
+06:23:31 (pull_client) IAC - Table pro_perkhidmatan : '9446' updated.
+06:23:31 (pull_client) IAC - Table pro_perkhidmatan : '9448' updated.
+06:23:32 (pull_client) IAC - Table pro_perkhidmatan : '9451' updated.
+06:23:32 (pull_client) IAC - Table pro_perkhidmatan : '9474' updated.
+06:23:32 (pull_client) IAC - Table pro_perkhidmatan : '9475' updated.
+06:23:32 (pull_client) IAC - Table pro_perkhidmatan : '9476' updated.
+06:23:33 (pull_client) IAC - Table pro_perkhidmatan : '9477' updated.
+06:23:33 (pull_client) IAC - Table pro_perkhidmatan : '9478' updated.
+06:23:33 (pull_client) IAC - Table pro_perkhidmatan : '9479' updated.
+06:23:33 (pull_client) IAC - Table pro_perkhidmatan : '9480' updated.
+06:23:34 (pull_client) IAC - Table pro_perkhidmatan : '9482' updated.
+06:23:34 (pull_client) IAC - Table pro_perkhidmatan : '9483' updated.
+06:23:34 (pull_client) IAC - Table pro_perkhidmatan : '9484' updated.
+06:23:34 (pull_client) IAC - Table pro_perkhidmatan : '9485' updated.
+06:23:35 (pull_client) IAC - Table pro_perkhidmatan : '9487' updated.
+06:23:35 (pull_client) IAC - Table pro_perkhidmatan : '9488' updated.
+06:23:35 (pull_client) IAC - Table pro_perkhidmatan : '9490' updated.
+06:23:36 (pull_client) IAC - Table pro_perkhidmatan : '9491' updated.
+06:23:36 (pull_client) IAC - Table pro_perkhidmatan : '9510' updated.
+06:23:36 (pull_client) IAC - Table pro_perkhidmatan : '9520' updated.
+06:23:37 (pull_client) IAC - Table pro_perkhidmatan : '9521' updated.
+06:23:37 (pull_client) IAC - Table pro_perkhidmatan : '9192' updated.
+06:23:37 (pull_client) IAC - Table pro_perkhidmatan : '9650' updated.
+06:23:37 (pull_client) ================= End Process PULL to Intan BK ==================

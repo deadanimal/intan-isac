@@ -1,0 +1,41 @@
+include('db.php');
+
+$no_ic =  $_POST['input_map_8577_11406'];
+$email_peserta =  $_POST['input_map_8577_11408'];
+$email_penyelaras =  $_POST['input_map_8577_11410'];
+if($no_ic != '')
+{
+$sqlPenghantaranEmel="select noti.REFFERENCE_ID,
+noti.EXECUTION_DATE as 'Tarikh Hantar',
+noti.NOTIFICATION_ITEM_STATUS as 'Status Penghantaran E-mel',
+noti.NOTIFICATION_ITEM_ID as 'Item ID'
+from flc_notification_item noti where
+noti.refference_id = '".$no_ic."'
+or noti.EMAIL_TO='".$email_peserta."'
+order by noti.EXECUTION_DATE";
+
+$sqlPenghantaranEmelRs = $myQuery->query($sqlPenghantaranEmel,'SELECT');
+
+for($i=0; $i<count($sqlPenghantaranEmelRs); $i++)
+{
+	$item_id = $_POST['input_map_8578_11418'][$i];
+	$tarikh_hantar =  $_POST['input_map_8578_11416'][$i];
+        $status_notifikasi =  $_POST['input_map_8578_11417'][$i];
+	
+	$sqlUpdatePenghantaranEmel = "update FLC_NOTIFICATION_ITEM 
+	set EMAIL_TO = '".$email_peserta."',
+	EMAIL_CC = '".$email_penyelaras."',
+	EXECUTION_DATE = '".$tarikh_hantar."',
+        NOTIFICATION_ITEM_STATUS = '".$status_notifikasi."'
+	where NOTIFICATION_ITEM_ID='".$item_id."'";
+	
+	$sqlUpdatePenghantaranEmelRs = $myQuery->query($sqlUpdatePenghantaranEmel,'RUN');
+}
+
+$sqlUpdateEmel = "UPDATE usr_isac.pro_peserta a, usr_isac.pro_tempat_tugas b
+SET a.EMEL_PESERTA = '".$email_peserta."',
+b.EMEL_PENYELIA = '".$email_penyelaras."'
+WHERE a.ID_PESERTA = b.ID_PESERTA
+and (a.NO_KAD_PENGENALAN = '".$no_ic."' or a.NO_KAD_PENGENALAN_LAIN = '".$no_ic."')";
+$sqlUpdateEmelRs = $myQuery->query($sqlUpdateEmel,'RUN');
+}
